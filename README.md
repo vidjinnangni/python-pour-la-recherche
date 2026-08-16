@@ -98,6 +98,8 @@ Si vous obtenez un numéro de version (ex. `Python 3.11.4`), c'est bon, passez �
 
 Le plus simple si vous découvrez Git : téléchargez le repo en `.zip` depuis GitHub (Cliquez sur le bouton bleu **"Code"** puis sur le lien **"Download ZIP"** en haut de la page du repo), puis décompressez-le où vous voulez sur votre ordinateur.
 
+![Télécharger le repo](/docs/images/download-zip.png)
+
 Si vous êtes à l'aise avec Git (voir le module [00-prise-en-main](modules/00-prise-en-main/) pour l'essentiel à connaître) :
 
 ```bash
