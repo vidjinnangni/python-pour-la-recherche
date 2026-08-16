@@ -1,0 +1,405 @@
+entreprise_id,annee,secteur,region,annee_creation,teletravail,effectifs,chiffre_affaires_keur,rentabilite,satisfaction_rh
+E001,2019,Industrie,Occitanie,2018,1,529,115830.2,0.1706,7.7
+E001,2020,Industrie,Occitanie,2018,1,590,125110.5,0.1497,6.7
+E001,2021,Industrie,Occitanie,2018,1,610,123760.0,0.1594,5.5
+E001,2022,Industrie,Occitanie,2018,1,652,127441.6,0.1703,8.2
+E001,2023,Industrie,Occitanie,2018,1,731,140627.0,0.0057,7.0
+E002,2019,Technologies,Nouvelle-Aquitaine,2009,1,381,75355.0,0.1907,8.0
+E002,2020,Technologies,Nouvelle-Aquitaine,2009,1,379,72634.8,0.102,5.4
+E002,2021,Technologies,Nouvelle-Aquitaine,2009,1,378,77716.4,0.1693,8.0
+E002,2022,Technologies,Nouvelle-Aquitaine,2009,1,346,83106.0,0.1043,7.7
+E002,2023,Technologies,Nouvelle-Aquitaine,2009,1,384,73128.4,0.0645,7.9
+E003,2019,Technologies,Île-de-France,2001,0,160,21970.6,0.1021,7.7
+E003,2020,Technologies,Île-de-France,2001,0,159,24060.0,0.1441,6.8
+E003,2021,Technologies,Île-de-France,2001,0,164,25302.1,0.0282,6.3
+E003,2022,Technologies,Île-de-France,2001,0,166,26837.3,0.14,5.0
+E003,2023,Technologies,Île-de-France,2001,0,168,30823.0,0.0354,5.3
+E004,2019,Services aux entreprises,Occitanie,2001,1,505,83434.1,0.1007,9.0
+E004,2020,Services aux entreprises,Occitanie,2001,1,542,92807.6,0.1332,10.0
+E004,2021,Services aux entreprises,Occitanie,2001,1,553,82108.6,0.1963,6.5
+E004,2022,Services aux entreprises,Occitanie,2001,1,573,94405.5,0.0039,5.3
+E004,2023,Services aux entreprises,Occitanie,2001,1,544,92656.1,0.1264,7.8
+E005,2019,Services aux entreprises,Hauts-de-France,2002,0,266,38847.3,-0.0586,6.6
+E005,2020,Services aux entreprises,Hauts-de-France,2002,0,265,41440.4,0.1221,6.7
+E005,2021,Services aux entreprises,Hauts-de-France,2002,0,280,43443.5,0.1118,5.5
+E005,2022,Services aux entreprises,Hauts-de-France,2002,0,283,45430.7,0.1292,5.9
+E005,2023,Services aux entreprises,Hauts-de-France,2002,0,296,45827.4,0.0729,7.7
+E006,2019,Santé,Hauts-de-France,2013,1,239,48740.8,0.0111,3.8
+E006,2020,Santé,Hauts-de-France,2013,1,238,53856.3,0.0829,7.4
+E006,2021,Santé,Hauts-de-France,2013,1,258,62000.2,0.0959,9.0
+E006,2022,Santé,Hauts-de-France,2013,1,267,60636.7,0.0643,5.0
+E006,2023,Santé,Hauts-de-France,2013,1,263,61628.7,0.1482,9.5
+E007,2019,Industrie,Île-de-France,1999,0,214,39270.5,0.0176,7.2
+E007,2020,Industrie,Île-de-France,1999,0,217,34696.6,0.1357,5.7
+E007,2021,Industrie,Île-de-France,1999,0,215,32768.1,0.0407,7.1
+E007,2022,Industrie,Île-de-France,1999,0,218,34612.8,0.1017,8.3
+E007,2022,Industrie,Île-de-France,1999,0,218,34612.8,0.1017,8.3
+E007,2023,Industrie,Île-de-France,1999,0,218,31561.7,0.144,6.0
+E008,2019,Technologies,Auvergne-Rhône-Alpes,1994,0,90,12273.9,0.0721,7.0
+E008,2020,Technologies,Auvergne-Rhône-Alpes,1994,0,101,14681.5,0.0842,6.7
+E008,2021,Technologies,Auvergne-Rhône-Alpes,1994,0,108,14128.7,0.1,6.5
+E008,2022,Technologies,Auvergne-Rhône-Alpes,1994,0,112,13610.6,-0.0154,3.6
+E008,2023,Technologies,Auvergne-Rhône-Alpes,1994,0,108,13519.5,0.0624,9.2
+E009,2019,Commerce,Hauts-de-France,1999,0,503,59046.6,0.1009,5.9
+E009,2020,Commerce,Hauts-de-France,1999,0,506,61693.4,0.1172,6.0
+E009,2021,Commerce,Hauts-de-France,1999,0,543,57908.2,0.0804,10.0
+E009,2022,Commerce,Hauts-de-France,1999,0,560,66285.1,0.0855,7.3
+E009,2023,Commerce,Hauts-de-France,1999,0,570,67370.0,0.0332,7.1
+E010,2019,Industrie,Occitanie,1990,1,21,3220.2,0.1651,7.6
+E010,2020,Industrie,Occitanie,1990,1,21,3482.0,0.0815,8.4
+E010,2021,Industrie,Occitanie,1990,1,20,3545.2,-0.0194,5.0
+E010,2022,Industrie,Occitanie,1990,1,22,3958.6,0.0568,5.0
+E010,2023,Industrie,Occitanie,1990,1,19,3964.7,0.2452,7.7
+E011,2019,Services aux entreprises,Nouvelle-Aquitaine,1993,0,98,18095.3,-0.0137,6.1
+E011,2020,Services aux entreprises,Nouvelle-Aquitaine,1993,0,101,18513.5,0.1274,7.0
+E011,2021,Services aux entreprises,Nouvelle-Aquitaine,1993,0,106,18049.4,0.1339,8.8
+E011,2022,Services aux entreprises,Nouvelle-Aquitaine,1993,0,103,17309.1,0.1601,6.2
+E011,2023,Services aux entreprises,Nouvelle-Aquitaine,1993,0,112,17215.6,0.1673,6.7
+E012,2019,Santé,Occitanie,1992,1,131,29702.1,0.0783,5.8
+E012,2020,Santé,Occitanie,1992,1,132,32113.5,0.0061,8.0
+E012,2021,Santé,Occitanie,1992,1,133,36507.4,-0.0437,6.0
+E012,2022,Santé,Occitanie,1992,1,126,35737.2,0.1149,6.8
+E012,2023,Santé,Occitanie,1992,1,128,36890.2,0.1122,5.7
+E013,2019,Technologies,Occitanie,2012,1,160,23642.2,0.1231,7.9
+E013,2020,Technologies,Occitanie,2012,1,167,28555.2,0.0948,6.7
+E013,2021,Technologies,Occitanie,2012,1,166,27482.1,0.0253,5.9
+E013,2022,Technologies,Occitanie,2012,1,170,29453.8,0.1031,6.0
+E013,2023,Technologies,Occitanie,2012,1,183,32521.5,0.0904,6.2
+E014,2019,Technologies,Auvergne-Rhône-Alpes,2010,0,82,9349.3,-0.0069,6.4
+E014,2020,Technologies,Auvergne-Rhône-Alpes,2010,0,84,8956.9,0.0914,4.5
+E014,2021,Technologies,Auvergne-Rhône-Alpes,2010,0,92,10119.8,0.0648,7.0
+E014,2022,Technologies,Auvergne-Rhône-Alpes,2010,0,83,9487.3,0.0624,5.0
+E014,2023,Technologies,Auvergne-Rhône-Alpes,2010,0,87,11287.8,0.0094,
+E015,2019,Technologies,Occitanie,2010,1,24,3054.5,0.0267,7.4
+E015,2020,Technologies,Occitanie,2010,1,27,2788.3,0.0231,6.5
+E015,2021,Technologies,Occitanie,2010,1,27,3095.1,0.1145,4.6
+E015,2022,Technologies,Occitanie,2010,1,28,3091.4,0.1765,6.2
+E015,2023,Technologies,Occitanie,2010,1,28,3364.3,0.1458,7.7
+E016,2019,Technologies,Auvergne-Rhône-Alpes,2003,0,321,67884.6,0.0179,6.8
+E016,2020,Technologies,Auvergne-Rhône-Alpes,2003,0,305,72345.0,0.0316,4.7
+E016,2021,Technologies,Auvergne-Rhône-Alpes,2003,0,321,75913.9,0.0432,
+E016,2022,Technologies,Auvergne-Rhône-Alpes,2003,0,321,78386.3,0.0961,5.6
+E016,2023,Technologies,Auvergne-Rhône-Alpes,2003,0,335,77392.6,0.0553,8.4
+E017,2019,Services aux entreprises,Auvergne-Rhône-Alpes,2010,1,474,80294.6,0.1967,10.0
+E017,2020,Services aux entreprises,Auvergne-Rhône-Alpes,2010,1,479,71466.5,0.0814,6.7
+E017,2021,Services aux entreprises,Auvergne-Rhône-Alpes,2010,1,489,68316.9,0.1348,7.8
+E017,2022,Services aux entreprises,Auvergne-Rhône-Alpes,2010,1,467,75212.5,0.2232,7.3
+E017,2023,Services aux entreprises,Auvergne-Rhône-Alpes,2010,1,473,77742.6,0.1369,
+E018,2019,Industrie,Hauts-de-France,1994,1,77,7107.2,0.2109,6.9
+E018,2020,Industrie,Hauts-de-France,1994,1,86,6799.4,0.1352,7.5
+E018,2021,Industrie,Hauts-de-France,1994,1,84,7201.9,0.1728,6.6
+E018,2022,Industrie,Hauts-de-France,1994,1,80,7515.9,0.0459,6.6
+E018,2023,Industrie,Hauts-de-France,1994,1,82,6828.5,0.0031,7.8
+E019,2019,Santé,Hauts-de-France,2016,1,159,11851.8,0.1471,7.5
+E019,2020,Santé,Hauts-de-France,2016,1,158,11136.6,0.1501,7.6
+E019,2021,Santé,Hauts-de-France,2016,1,181,12012.1,0.1233,6.9
+E019,2022,Santé,Hauts-de-France,2016,1,194,13153.3,0.1751,6.4
+E019,2023,Santé,Hauts-de-France,2016,1,196,13241.1,0.1474,9.2
+E020,2019,Services aux entreprises,Île-de-France,2004,0,259,42268.4,0.0988,6.2
+E020,2020,Services aux entreprises,Île-de-France,2004,0,277,35922.1,0.0304,5.4
+E020,2021,Services aux entreprises,Île-de-France,2004,0,250,34230.5,0.0251,6.2
+E020,2022,Services aux entreprises,Île-de-France,2004,0,269,34586.4,0.0182,
+E020,2023,Services aux entreprises,Île-de-France,2004,0,289,32923.6,0.0254,7.3
+E021,2019,Services aux entreprises,Occitanie,2017,1,473,51127.7,0.0992,8.1
+E021,2020,Services aux entreprises,Occitanie,2017,1,462,53379.0,0.0874,5.4
+E021,2021,Services aux entreprises,Occitanie,2017,1,440,58709.5,0.0789,5.7
+E021,2022,Services aux entreprises,Occitanie,2017,1,451,66649.4,-0.0368,5.0
+E021,2023,Services aux entreprises,Occitanie,2017,1,444,77439.6,0.117,8.2
+E022,2019,Commerce,Île-de-France,1994,1,342,65546.8,0.1269,7.2
+E022,2020,Commerce,Île-de-France,1994,1,361,67512.3,0.1167,7.3
+E022,2021,Commerce,Île-de-France,1994,1,386,74909.0,0.0028,4.0
+E022,2022,Commerce,Île-de-France,1994,1,417,85397.6,0.0388,4.5
+E022,2023,Commerce,Île-de-France,1994,1,432,95599.8,0.2079,7.8
+E023,2019,Industrie,Occitanie,2004,1,390,46390.1,0.1007,6.7
+E023,2020,Industrie,Occitanie,2004,1,382,56081.0,0.2071,8.7
+E023,2021,Industrie,Occitanie,2004,1,376,62440.7,0.1384,7.7
+E023,2022,Industrie,Occitanie,2004,1,411,68424.4,0.1444,8.0
+E023,2023,Industrie,Occitanie,2004,1,430,61740.1,0.105,6.3
+E024,2019,Santé,Île-de-France,2010,1,286,34964.1,0.2037,9.0
+E024,2020,Santé,Île-de-France,2010,1,298,40315.4,0.1007,7.4
+E024,2021,Santé,Île-de-France,2010,1,291,43410.0,0.1036,5.3
+E024,2022,Santé,Île-de-France,2010,1,299,45086.6,0.2079,8.4
+E024,2023,Santé,Île-de-France,2010,1,308,48012.8,0.1027,6.8
+E025,2019,Technologies,Hauts-de-France,2004,1,212,46831.5,0.0552,5.3
+E025,2020,Technologies,Hauts-de-France,2004,1,224,50404.8,-0.0072,6.9
+E025,2021,Technologies,Hauts-de-France,2004,1,241,56944.2,0.1616,7.2
+E025,2022,Technologies,Hauts-de-France,2004,1,238,54569.8,0.1207,7.6
+E025,2023,Technologies,Hauts-de-France,2004,1,261,61827.5,0.0921,5.4
+E026,2019,Technologies,Hauts-de-France,2002,0,111,11995.0,0.0679,5.7
+E026,2020,Technologies,Hauts-de-France,2002,0,115,11871.2,0.0423,6.9
+E026,2021,Technologies,Hauts-de-France,2002,0,115,12459.2,0.0964,4.9
+E026,2022,Technologies,Hauts-de-France,2002,0,115,14266.0,0.0103,3.5
+E026,2023,Technologies,Hauts-de-France,2002,0,106,14727.2,0.0819,6.3
+E027,2019,Services aux entreprises,Hauts-de-France,1994,0,469,42457.0,0.1038,8.7
+E027,2020,Services aux entreprises,Hauts-de-France,1994,0,452,42440.7,0.0348,5.2
+E027,2021,Services aux entreprises,Hauts-de-France,1994,0,454,48560.6,0.1902,6.0
+E027,2022,Services aux entreprises,Hauts-de-France,1994,0,506,50155.6,0.1852,6.4
+E027,2023,Services aux entreprises,Hauts-de-France,1994,0,519,53126.7,0.2707,7.7
+E028,2019,Santé,Hauts-de-France,2001,1,403,46146.7,0.0783,6.4
+E028,2020,Santé,Hauts-de-France,2001,1,433,48338.0,0.1167,7.1
+E028,2021,Santé,Hauts-de-France,2001,1,454,52156.6,-0.0162,8.0
+E028,2022,Santé,Hauts-de-France,2001,1,445,48485.6,0.0965,7.2
+E028,2023,Santé,Hauts-de-France,2001,1,443,53890.9,0.0195,6.5
+E029,2019,Services aux entreprises,Nouvelle-Aquitaine,1996,1,27,2703.7,0.1167,5.7
+E029,2020,Services aux entreprises,Nouvelle-Aquitaine,1996,1,29,2839.0,-0.0135,4.4
+E029,2021,Services aux entreprises,Nouvelle-Aquitaine,1996,1,30,2916.6,0.0938,7.1
+E029,2022,Services aux entreprises,Nouvelle-Aquitaine,1996,1,31,3268.9,0.0333,5.5
+E029,2023,Services aux entreprises,Nouvelle-Aquitaine,1996,1,30,3491.6,0.1747,6.5
+E030,2019,Services aux entreprises,Hauts-de-France,1998,0,323,26764.7,0.03,5.7
+E030,2020,Services aux entreprises,Hauts-de-France,1998,0,323,27650.2,0.0613,8.0
+E030,2021,Services aux entreprises,Hauts-de-France,1998,0,318,26572.3,0.1087,4.4
+E030,2022,Services aux entreprises,Hauts-de-France,1998,0,331,27587.4,0.0712,8.7
+E030,2023,Services aux entreprises,Hauts-de-France,1998,0,327,32962.1,0.0665,4.7
+E031,2019,Services aux entreprises,Auvergne-Rhône-Alpes,2009,1,57,4628.2,0.0549,7.7
+E031,2020,Services aux entreprises,Auvergne-Rhône-Alpes,2009,1,60,4606.1,0.1592,8.7
+E031,2021,Services aux entreprises,Auvergne-Rhône-Alpes,2009,1,66,5008.4,0.1818,4.5
+E031,2022,Services aux entreprises,Auvergne-Rhône-Alpes,2009,1,67,4886.4,0.1072,6.3
+E031,2023,Services aux entreprises,Auvergne-Rhône-Alpes,2009,1,69,5842.1,0.0898,7.7
+E032,2019,Commerce,Hauts-de-France,2008,1,380,40948.9,0.1004,7.7
+E032,2020,Commerce,Hauts-de-France,2008,1,413,48188.4,0.1186,7.9
+E032,2021,Commerce,Hauts-de-France,2008,1,402,50018.1,0.1564,8.3
+E032,2022,Commerce,Hauts-de-France,2008,1,418,55815.8,0.1294,8.8
+E032,2023,Commerce,Hauts-de-France,2008,1,437,56739.2,0.1202,3.0
+E033,2019,Industrie,Nouvelle-Aquitaine,2007,0,431,26795.1,-0.0234,7.1
+E033,2020,Industrie,Nouvelle-Aquitaine,2007,0,450,25107.2,0.0373,
+E033,2021,Industrie,Nouvelle-Aquitaine,2007,0,448,30365.5,0.0799,7.1
+E033,2022,Industrie,Nouvelle-Aquitaine,2007,0,493,31594.7,0.0199,6.3
+E033,2023,Industrie,Nouvelle-Aquitaine,2007,0,502,29093.1,0.0647,5.5
+E034,2019,Services aux entreprises,Nouvelle-Aquitaine,2000,1,84,13301.7,0.083,7.0
+E034,2020,Services aux entreprises,Nouvelle-Aquitaine,2000,1,87,14556.7,0.04,5.6
+E034,2021,Services aux entreprises,Nouvelle-Aquitaine,2000,1,95,14731.6,0.015,7.7
+E034,2022,Services aux entreprises,Nouvelle-Aquitaine,2000,1,100,13590.5,0.1138,8.1
+E034,2023,Services aux entreprises,Nouvelle-Aquitaine,2000,1,105,14889.2,0.0157,7.6
+E035,2019,Santé,Nouvelle-Aquitaine,2017,0,226,39102.4,0.1322,8.6
+E035,2020,Santé,Nouvelle-Aquitaine,2017,0,251,44388.4,0.0734,7.0
+E035,2021,Santé,Nouvelle-Aquitaine,2017,0,266,46150.4,0.0878,7.7
+E035,2022,Santé,Nouvelle-Aquitaine,2017,0,270,44842.4,0.0551,7.4
+E035,2023,Santé,Nouvelle-Aquitaine,2017,0,276,47408.1,0.1202,6.0
+E036,2019,Industrie,Nouvelle-Aquitaine,1992,1,80,10896.2,0.0259,9.1
+E036,2020,Industrie,Nouvelle-Aquitaine,1992,1,80,9943.8,0.0373,
+E036,2021,Industrie,Nouvelle-Aquitaine,1992,1,83,10173.4,0.0798,8.0
+E036,2022,Industrie,Nouvelle-Aquitaine,1992,1,87,10888.5,0.1246,8.0
+E036,2023,Industrie,Nouvelle-Aquitaine,1992,1,80,11061.0,-0.0308,7.2
+E037,2019,Santé,Île-de-France,1999,0,296,40214.1,0.1513,6.8
+E037,2020,Santé,Île-de-France,1999,0,294,42981.4,0.0483,6.5
+E037,2021,Santé,Île-de-France,1999,0,315,42352.9,0.1283,7.4
+E037,2022,Santé,Île-de-France,1999,0,306,46923.3,0.1219,6.6
+E037,2023,Santé,Île-de-France,1999,0,300,45105.6,0.0477,7.3
+E038,2019,Santé,Île-de-France,1993,1,456,75485.6,0.0255,6.8
+E038,2020,Santé,Île-de-France,1993,1,472,93648.2,0.0174,9.2
+E038,2021,Santé,Île-de-France,1993,1,490,100942.9,0.1071,7.7
+E038,2022,Santé,Île-de-France,1993,1,501,117227.4,0.0726,8.7
+E038,2023,Santé,Île-de-France,1993,1,499,121937.5,0.0357,7.7
+E039,2019,Commerce,Auvergne-Rhône-Alpes,1999,1,60,11359.4,0.0882,5.5
+E039,2020,Commerce,Auvergne-Rhône-Alpes,1999,1,61,10423.2,0.0452,7.4
+E039,2021,Commerce,Auvergne-Rhône-Alpes,1999,1,66,13234.7,0.0648,9.1
+E039,2022,Commerce,Auvergne-Rhône-Alpes,1999,1,69,13670.1,0.126,7.2
+E039,2023,Commerce,Auvergne-Rhône-Alpes,1999,1,72,13838.7,0.0161,4.9
+E040,2019,Technologies,Île-de-France,2017,1,220,42168.4,0.0642,7.1
+E040,2020,Technologies,Île-de-France,2017,1,235,44674.4,0.0606,8.8
+E040,2021,Technologies,Île-de-France,2017,1,261,48452.3,0.1584,8.8
+E040,2022,Technologies,Île-de-France,2017,1,284,53013.0,0.1359,7.8
+E040,2023,Technologies,Île-de-France,2017,1,276,58370.4,0.0187,6.0
+E041,2019,Industrie,Nouvelle-Aquitaine,2000,0,527,45905.4,0.1692,6.1
+E041,2020,Industrie,Nouvelle-Aquitaine,2000,0,508,46399.6,0.0861,6.6
+E041,2021,Industrie,Nouvelle-Aquitaine,2000,0,546,46450.6,0.1011,5.1
+E041,2022,Industrie,Nouvelle-Aquitaine,2000,0,570,47855.6,0.035,6.2
+E041,2023,Industrie,Nouvelle-Aquitaine,2000,0,576,48257.0,0.1863,6.4
+E042,2019,Technologies,Hauts-de-France,2016,1,163,14794.5,0.0463,6.7
+E042,2020,Technologies,Hauts-de-France,2016,1,162,17095.6,0.0901,8.9
+E042,2021,Technologies,Hauts-de-France,2016,1,168,17915.8,0.0947,7.1
+E042,2022,Technologies,Hauts-de-France,2016,1,187,15397.4,-0.0201,6.3
+E042,2023,Technologies,Hauts-de-France,2016,1,193,16940.4,0.1284,6.6
+E042,2023,Technologies,Hauts-de-France,2016,1,193,16940.4,0.1284,6.6
+E043,2019,Technologies,Hauts-de-France,2004,0,85,9943.2,0.091,7.8
+E043,2019,Technologies,Hauts-de-France,2004,0,85,9943.2,0.091,7.8
+E043,2020,Technologies,Hauts-de-France,2004,0,87,9794.9,0.1219,6.7
+E043,2021,Technologies,Hauts-de-France,2004,0,89,11242.9,-0.0671,4.5
+E043,2022,Technologies,Hauts-de-France,2004,0,86,11253.5,0.0647,4.4
+E043,2023,Technologies,Hauts-de-France,2004,0,83,10816.1,0.2274,9.0
+E044,2019,Commerce,Nouvelle-Aquitaine,2010,0,251,28869.8,0.011,3.8
+E044,2020,Commerce,Nouvelle-Aquitaine,2010,0,254,27431.3,0.0749,4.3
+E044,2021,Commerce,Nouvelle-Aquitaine,2010,0,250,28580.4,0.102,7.1
+E044,2022,Commerce,Nouvelle-Aquitaine,2010,0,238,31392.0,0.032,7.4
+E044,2023,Commerce,Nouvelle-Aquitaine,2010,0,243,28877.1,0.061,7.0
+E045,2019,Industrie,Occitanie,2003,1,277,43160.8,0.1919,8.5
+E045,2020,Industrie,Occitanie,2003,1,282,47693.1,0.216,9.8
+E045,2021,Industrie,Occitanie,2003,1,273,46304.1,0.1891,5.6
+E045,2022,Industrie,Occitanie,2003,1,263,46586.8,0.1252,7.0
+E045,2023,Industrie,Occitanie,2003,1,262,46170.5,0.0573,5.9
+E046,2019,Santé,Nouvelle-Aquitaine,1997,0,381,48960.6,0.1332,5.8
+E046,2020,Santé,Nouvelle-Aquitaine,1997,0,385,47634.6,-0.0791,4.6
+E046,2021,Santé,Nouvelle-Aquitaine,1997,0,358,40490.2,0.0083,8.4
+E046,2022,Santé,Nouvelle-Aquitaine,1997,0,364,45885.3,0.1047,7.6
+E046,2023,Santé,Nouvelle-Aquitaine,1997,0,355,49185.2,0.1237,5.7
+E047,2019,Services aux entreprises,Île-de-France,2012,1,177,15821.9,0.067,5.5
+E047,2020,Services aux entreprises,Île-de-France,2012,1,172,16643.4,0.1196,6.0
+E047,2021,Services aux entreprises,Île-de-France,2012,1,177,18152.0,0.1371,9.3
+E047,2022,Services aux entreprises,Île-de-France,2012,1,193,17514.8,0.201,6.4
+E047,2023,Services aux entreprises,Île-de-France,2012,1,209,18398.2,0.0753,4.6
+E048,2019,Santé,Hauts-de-France,2018,1,488,58198.6,0.158,9.2
+E048,2020,Santé,Hauts-de-France,2018,1,483,62223.5,0.0565,6.2
+E048,2021,Santé,Hauts-de-France,2018,1,517,64831.7,0.2044,6.4
+E048,2022,Santé,Hauts-de-France,2018,1,558,68254.4,0.1477,6.5
+E048,2023,Santé,Hauts-de-France,2018,1,573,70695.2,0.0498,8.0
+E049,2019,Technologies,Nouvelle-Aquitaine,1997,0,281,44109.9,0.1722,8.5
+E049,2020,Technologies,Nouvelle-Aquitaine,1997,0,281,46749.7,0.0426,6.5
+E049,2021,Technologies,Nouvelle-Aquitaine,1997,0,279,54211.2,0.1018,6.2
+E049,2022,Technologies,Nouvelle-Aquitaine,1997,0,301,46423.8,-0.0408,7.6
+E049,2023,Technologies,Nouvelle-Aquitaine,1997,0,308,48746.6,0.0004,6.5
+E050,2019,Technologies,Hauts-de-France,2012,1,173,16017.3,0.1102,6.5
+E050,2020,Technologies,Hauts-de-France,2012,1,175,14009.7,0.1155,8.3
+E050,2021,Technologies,Hauts-de-France,2012,1,166,13898.9,0.0306,5.7
+E050,2022,Technologies,Hauts-de-France,2012,1,172,12206.6,0.1369,8.2
+E050,2023,Technologies,Hauts-de-France,2012,1,175,10333.5,0.0402,8.8
+E051,2019,Technologies,Nouvelle-Aquitaine,1997,0,423,94615.9,0.0092,7.6
+E051,2020,Technologies,Nouvelle-Aquitaine,1997,0,417,100512.1,0.1139,9.1
+E051,2021,Technologies,Nouvelle-Aquitaine,1997,0,421,106551.2,-0.0091,8.2
+E051,2022,Technologies,Nouvelle-Aquitaine,1997,0,414,104967.8,0.0787,4.3
+E051,2023,Technologies,Nouvelle-Aquitaine,1997,0,427,116241.0,0.0976,4.3
+E052,2019,Industrie,Nouvelle-Aquitaine,2010,1,474,44625.3,-0.0127,5.6
+E052,2020,Industrie,Nouvelle-Aquitaine,2010,1,509,47597.6,0.1247,9.7
+E052,2021,Industrie,Nouvelle-Aquitaine,2010,1,536,52244.6,0.2626,6.8
+E052,2022,Industrie,Nouvelle-Aquitaine,2010,1,531,56383.7,0.1263,6.4
+E052,2023,Industrie,Nouvelle-Aquitaine,2010,1,519,69339.9,0.1196,6.1
+E053,2019,Commerce,Île-de-France,2012,0,274,54980.8,0.0648,7.3
+E053,2020,Commerce,Île-de-France,2012,0,262,58181.3,0.1948,7.2
+E053,2021,Commerce,Île-de-France,2012,0,262,57566.4,0.0554,6.1
+E053,2022,Commerce,Île-de-France,2012,0,262,63513.3,-0.024,7.7
+E053,2023,Commerce,Île-de-France,2012,0,263,67334.0,0.0124,8.4
+E054,2019,Services aux entreprises,Nouvelle-Aquitaine,2003,1,29,2843.3,0.0091,8.3
+E054,2020,Services aux entreprises,Nouvelle-Aquitaine,2003,1,31,2606.1,0.0985,7.6
+E054,2021,Services aux entreprises,Nouvelle-Aquitaine,2003,1,33,2760.3,0.1175,9.2
+E054,2022,Services aux entreprises,Nouvelle-Aquitaine,2003,1,36,2251.4,0.081,6.9
+E054,2023,Services aux entreprises,Nouvelle-Aquitaine,2003,1,34,2369.7,0.1749,5.6
+E055,2019,Services aux entreprises,Hauts-de-France,2011,0,315,57617.0,0.0397,8.6
+E055,2020,Services aux entreprises,Hauts-de-France,2011,0,313,61476.0,-0.0323,9.1
+E055,2021,Services aux entreprises,Hauts-de-France,2011,0,329,62422.7,0.1145,4.5
+E055,2022,Services aux entreprises,Hauts-de-France,2011,0,355,62677.5,0.0678,5.8
+E055,2023,Services aux entreprises,Hauts-de-France,2011,0,351,68041.0,0.0954,7.4
+E056,2019,Industrie,Auvergne-Rhône-Alpes,1997,0,290,62774.0,0.0549,9.6
+E056,2020,Industrie,Auvergne-Rhône-Alpes,1997,0,273,70989.6,0.1621,5.3
+E056,2021,Industrie,Auvergne-Rhône-Alpes,1997,0,308,78772.8,0.1383,6.5
+E056,2022,Industrie,Auvergne-Rhône-Alpes,1997,0,311,79816.4,0.1034,8.5
+E056,2023,Industrie,Auvergne-Rhône-Alpes,1997,0,320,76391.0,0.1295,7.8
+E057,2019,Services aux entreprises,Hauts-de-France,1992,1,91,20628.1,0.0837,5.8
+E057,2019,Services aux entreprises,Hauts-de-France,1992,1,91,20628.1,0.0837,5.8
+E057,2020,Services aux entreprises,Hauts-de-France,1992,1,90,18857.4,0.1142,7.0
+E057,2021,Services aux entreprises,Hauts-de-France,1992,1,91,15247.2,0.0252,8.7
+E057,2022,Services aux entreprises,Hauts-de-France,1992,1,91,16373.1,0.0166,9.1
+E057,2023,Services aux entreprises,Hauts-de-France,1992,1,93,17489.8,0.2395,9.2
+E058,2019,Industrie,Île-de-France,1992,1,327,61763.2,0.0805,7.8
+E058,2020,Industrie,Île-de-France,1992,1,335,62589.6,0.188,6.9
+E058,2021,Industrie,Île-de-France,1992,1,383,65860.5,0.2071,7.6
+E058,2022,Industrie,Île-de-France,1992,1,413,65006.3,0.0488,7.7
+E058,2023,Industrie,Île-de-France,1992,1,446,68141.0,0.0228,5.2
+E059,2019,Technologies,Auvergne-Rhône-Alpes,2002,1,405,72116.9,0.1066,8.7
+E059,2020,Technologies,Auvergne-Rhône-Alpes,2002,1,416,62321.1,0.0886,6.9
+E059,2021,Technologies,Auvergne-Rhône-Alpes,2002,1,473,57860.7,0.0766,9.5
+E059,2022,Technologies,Auvergne-Rhône-Alpes,2002,1,497,63071.9,0.1069,7.6
+E059,2023,Technologies,Auvergne-Rhône-Alpes,2002,1,532,61825.7,0.1527,5.2
+E060,2019,Technologies,Nouvelle-Aquitaine,2016,1,69,11881.7,0.063,7.1
+E060,2020,Technologies,Nouvelle-Aquitaine,2016,1,69,11397.7,0.0788,5.6
+E060,2021,Technologies,Nouvelle-Aquitaine,2016,1,72,10861.9,0.1427,5.4
+E060,2022,Technologies,Nouvelle-Aquitaine,2016,1,72,10807.9,0.1795,7.6
+E060,2023,Technologies,Nouvelle-Aquitaine,2016,1,74,11725.5,-0.0264,7.0
+E061,2019,Santé,Occitanie,1993,1,412,72842.6,0.1041,7.9
+E061,2020,Santé,Occitanie,1993,1,443,64480.5,-0.0009,7.4
+E061,2021,Santé,Occitanie,1993,1,441,74150.1,0.0811,4.4
+E061,2022,Santé,Occitanie,1993,1,426,61175.8,0.086,6.8
+E061,2023,Santé,Occitanie,1993,1,430,69208.8,0.1719,6.9
+E062,2019,Technologies,Auvergne-Rhône-Alpes,2003,1,77,8977.8,0.1333,7.5
+E062,2020,Technologies,Auvergne-Rhône-Alpes,2003,1,83,8545.2,0.2205,5.8
+E062,2021,Technologies,Auvergne-Rhône-Alpes,2003,1,88,7776.2,0.0442,9.2
+E062,2022,Technologies,Auvergne-Rhône-Alpes,2003,1,90,8648.6,0.1142,7.0
+E062,2023,Technologies,Auvergne-Rhône-Alpes,2003,1,99,8874.1,-0.0068,6.0
+E063,2019,Commerce,Auvergne-Rhône-Alpes,2010,1,400,63100.5,0.006,6.1
+E063,2020,Commerce,Auvergne-Rhône-Alpes,2010,1,400,64095.2,0.0174,6.2
+E063,2021,Commerce,Auvergne-Rhône-Alpes,2010,1,398,70935.6,0.1485,6.9
+E063,2022,Commerce,Auvergne-Rhône-Alpes,2010,1,402,74921.7,0.051,5.5
+E063,2023,Commerce,Auvergne-Rhône-Alpes,2010,1,395,74488.3,0.0302,7.3
+E064,2019,Santé,Nouvelle-Aquitaine,1995,0,230,29921.1,0.0815,6.2
+E064,2020,Santé,Nouvelle-Aquitaine,1995,0,239,30787.8,-0.0072,4.7
+E064,2021,Santé,Nouvelle-Aquitaine,1995,0,244,34245.4,-0.0529,7.0
+E064,2022,Santé,Nouvelle-Aquitaine,1995,0,263,34853.5,0.113,5.5
+E064,2023,Santé,Nouvelle-Aquitaine,1995,0,267,31379.5,-0.0607,7.8
+E065,2019,Services aux entreprises,Occitanie,2010,1,18,3631.9,0.0168,5.1
+E065,2020,Services aux entreprises,Occitanie,2010,1,18,3583.4,0.1227,7.7
+E065,2021,Services aux entreprises,Occitanie,2010,1,19,3813.0,0.1947,5.6
+E065,2022,Services aux entreprises,Occitanie,2010,1,19,4330.1,0.1759,5.1
+E065,2023,Services aux entreprises,Occitanie,2010,1,20,4995.4,0.1305,7.4
+E066,2019,Commerce,Occitanie,1998,1,492,70934.3,0.1173,6.7
+E066,2020,Commerce,Occitanie,1998,1,506,74572.3,0.0593,7.8
+E066,2021,Commerce,Occitanie,1998,1,595,67327.0,0.1194,6.0
+E066,2022,Commerce,Occitanie,1998,1,630,70607.5,0.1457,8.7
+E066,2023,Commerce,Occitanie,1998,1,655,80179.3,-0.0407,9.3
+E067,2019,Santé,Île-de-France,2013,0,99,14200.3,0.0068,5.3
+E067,2020,Santé,Île-de-France,2013,0,101,14607.0,0.097,8.0
+E067,2021,Santé,Île-de-France,2013,0,94,16183.1,0.0805,6.2
+E067,2022,Santé,Île-de-France,2013,0,89,17319.9,-0.0648,7.4
+E067,2023,Santé,Île-de-France,2013,0,85,17913.6,0.0728,8.1
+E068,2019,Commerce,Auvergne-Rhône-Alpes,2006,0,307,50223.9,0.0496,8.3
+E068,2020,Commerce,Auvergne-Rhône-Alpes,2006,0,322,50181.2,0.0658,4.3
+E068,2021,Commerce,Auvergne-Rhône-Alpes,2006,0,334,44621.9,0.1251,6.7
+E068,2022,Commerce,Auvergne-Rhône-Alpes,2006,0,381,42033.3,0.0738,9.0
+E068,2023,Commerce,Auvergne-Rhône-Alpes,2006,0,411,40953.2,0.0934,6.5
+E069,2019,Industrie,Occitanie,2005,1,108,11950.8,0.0946,4.9
+E069,2020,Industrie,Occitanie,2005,1,111,12918.8,0.0864,4.8
+E069,2021,Industrie,Occitanie,2005,1,120,13876.9,0.0564,6.7
+E069,2022,Industrie,Occitanie,2005,1,115,13363.0,0.0677,8.8
+E069,2023,Industrie,Occitanie,2005,1,115,14648.7,0.0677,7.4
+E070,2019,Services aux entreprises,Île-de-France,1995,0,473,51140.6,0.0479,
+E070,2020,Services aux entreprises,Île-de-France,1995,0,450,50498.8,0.0051,7.1
+E070,2021,Services aux entreprises,Île-de-France,1995,0,448,61607.0,-0.0243,6.8
+E070,2022,Services aux entreprises,Île-de-France,1995,0,432,61023.4,0.0885,3.2
+E070,2023,Services aux entreprises,Île-de-France,1995,0,446,72143.9,0.0528,6.9
+E071,2019,Technologies,Occitanie,2003,1,403,56541.8,0.0651,3.9
+E071,2020,Technologies,Occitanie,2003,1,428,58574.3,0.0392,7.3
+E071,2021,Technologies,Occitanie,2003,1,429,58734.0,0.1364,5.2
+E071,2022,Technologies,Occitanie,2003,1,464,54809.7,0.0602,9.8
+E071,2023,Technologies,Occitanie,2003,1,504,57704.1,0.0436,6.4
+E072,2019,Industrie,Auvergne-Rhône-Alpes,2014,0,415,57887.0,0.0745,6.5
+E072,2020,Industrie,Auvergne-Rhône-Alpes,2014,0,418,52945.8,0.049,7.8
+E072,2021,Industrie,Auvergne-Rhône-Alpes,2014,0,398,53731.3,0.0308,6.7
+E072,2022,Industrie,Auvergne-Rhône-Alpes,2014,0,398,61693.8,0.1104,4.7
+E072,2023,Industrie,Auvergne-Rhône-Alpes,2014,0,420,59721.4,0.0454,6.9
+E073,2019,Services aux entreprises,Occitanie,1990,0,223,27770.7,0.0335,5.6
+E073,2020,Services aux entreprises,Occitanie,1990,0,220,27347.2,0.146,7.4
+E073,2021,Services aux entreprises,Occitanie,1990,0,243,33128.7,0.0182,6.6
+E073,2022,Services aux entreprises,Occitanie,1990,0,234,32061.7,0.0422,5.0
+E073,2023,Services aux entreprises,Occitanie,1990,0,226,32653.5,0.007,7.7
+E074,2019,Industrie,Auvergne-Rhône-Alpes,2011,1,237,40226.0,0.0729,7.2
+E074,2020,Industrie,Auvergne-Rhône-Alpes,2011,1,229,47526.5,0.1672,7.5
+E074,2021,Industrie,Auvergne-Rhône-Alpes,2011,1,220,50466.2,0.0327,9.1
+E074,2022,Industrie,Auvergne-Rhône-Alpes,2011,1,236,53122.4,-0.0462,5.7
+E074,2023,Industrie,Auvergne-Rhône-Alpes,2011,1,251,60667.5,0.1666,4.9
+E075,2019,Technologies,Nouvelle-Aquitaine,2004,0,333,46979.9,-0.0195,6.5
+E075,2020,Technologies,Nouvelle-Aquitaine,2004,0,345,47258.9,-0.0311,6.0
+E075,2021,Technologies,Nouvelle-Aquitaine,2004,0,346,48116.9,0.0462,5.9
+E075,2022,Technologies,Nouvelle-Aquitaine,2004,0,352,51263.5,0.0617,5.9
+E075,2023,Technologies,Nouvelle-Aquitaine,2004,0,361,44923.6,0.1086,6.5
+E076,2019,Services aux entreprises,Hauts-de-France,2010,0,404,55022.5,-0.0372,3.7
+E076,2020,Services aux entreprises,Hauts-de-France,2010,0,417,56641.9,0.0902,5.9
+E076,2021,Services aux entreprises,Hauts-de-France,2010,0,439,62567.2,0.109,6.1
+E076,2022,Services aux entreprises,Hauts-de-France,2010,0,402,68294.6,0.1533,7.4
+E076,2023,Services aux entreprises,Hauts-de-France,2010,0,392,74024.7,0.1316,8.7
+E077,2019,Commerce,Île-de-France,2009,1,419,58099.1,0.1448,7.2
+E077,2020,Commerce,Île-de-France,2009,1,408,62640.7,0.1347,7.2
+E077,2021,Commerce,Île-de-France,2009,1,425,64163.1,0.1887,5.8
+E077,2022,Commerce,Île-de-France,2009,1,425,67106.8,0.1527,5.0
+E077,2023,Commerce,Île-de-France,2009,1,410,59187.0,0.102,5.5
+E078,2019,Commerce,Nouvelle-Aquitaine,2002,1,23,4444.4,0.0615,7.4
+E078,2020,Commerce,Nouvelle-Aquitaine,2002,1,24,4883.4,0.1285,6.1
+E078,2021,Commerce,Nouvelle-Aquitaine,2002,1,24,5510.9,0.1236,5.1
+E078,2022,Commerce,Nouvelle-Aquitaine,2002,1,26,5280.7,0.1848,8.5
+E078,2023,Commerce,Nouvelle-Aquitaine,2002,1,27,5584.8,0.0875,8.0
+E079,2019,Services aux entreprises,Nouvelle-Aquitaine,1998,0,336,42840.2,0.1323,5.7
+E079,2020,Services aux entreprises,Nouvelle-Aquitaine,1998,0,333,40032.0,0.0161,3.9
+E079,2021,Services aux entreprises,Nouvelle-Aquitaine,1998,0,352,47026.2,0.1655,4.2
+E079,2022,Services aux entreprises,Nouvelle-Aquitaine,1998,0,371,53787.0,0.0526,6.6
+E079,2023,Services aux entreprises,Nouvelle-Aquitaine,1998,0,342,56548.4,0.0162,6.8
+E080,2019,Technologies,Hauts-de-France,2008,0,63,15307.4,0.1415,5.4
+E080,2020,Technologies,Hauts-de-France,2008,0,61,13126.4,0.064,
+E080,2021,Technologies,Hauts-de-France,2008,0,57,13995.9,0.053,5.0
+E080,2022,Technologies,Hauts-de-France,2008,0,57,15615.3,0.1162,6.3
+E080,2023,Technologies,Hauts-de-France,2008,0,60,14633.5,0.0819,6.7

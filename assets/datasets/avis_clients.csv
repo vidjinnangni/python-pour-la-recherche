@@ -1,0 +1,307 @@
+avis_id,entreprise_id,date,canal,note,texte_avis
+A0086,E024,2023-01-01,Site web,3,Rien à signaler de particulier.
+A0250,E068,2023-01-07,Site web,1,Le prix ne correspond pas du tout à la qualité. Le délai de livraison a été beaucoup trop long.
+A0130,E044,2023-01-09,Application mobile,4,
+A0231,E023,2023-01-09,Réseaux sociaux,1,TROP D'ERREURS DANS LE TRAITEMENT DE MA COMMANDE.!!!
+A0243,E023,2023-01-13,Application mobile,3,"Livraison rapide, je suis très satisfait."
+A0059,E074,2023-01-14,Site web,3,
+A0062,E042,2023-01-16,Site web,3,Un accompagnement personnalisé et efficace. Je recommande vivement cette entreprise.
+A0262,E069,2023-01-16,Application mobile,1,"Une expérience décevante, je ne recommande pas.  Le site est peu clair et difficile à utiliser."
+A0169,E032,2023-01-17,Site web,2,"LE SERVICE EST STANDARD, COMME AILLEURS."
+A0049,E025,2023-01-17,Réseaux sociaux,3,Rien à signaler de particulier.
+A0235,E052,2023-01-17,Site web,2,Personne n'a pris en charge ma réclamation.
+A0153,E036,2023-01-17,Site web,4,Très bonne expérience du début à la fin.
+A0153,E036,2023-01-17,Site web,4,Très bonne expérience du début à la fin.
+A0089,E020,2023-01-18,Site web,5,LE SERVICE CLIENT A ÉTÉ TRÈS RÉACTIF. LE RAPPORT QUALITÉ-PRIX EST EXCELLENT.
+A0289,E010,2023-01-18,Site web,5,Le service client a été très réactif. L'équipe a été à l'écoute de mes besoins.!!!
+A0063,E005,2023-01-25,Réseaux sociaux,1,Le site est peu clair et difficile à utiliser.
+A0027,E058,2023-01-30,Application mobile,4,Le produit correspond parfaitement à mes attentes.  Très bonne expérience du début à la fin.
+A0236,E020,2023-01-31,Site web,5,UN ACCOMPAGNEMENT PERSONNALISÉ ET EFFICACE.
+A0012,E077,2023-02-01,Application mobile,3,"Une expérience correcte, sans plus."
+A0042,E065,2023-02-02,Site web,1,Rien à signaler de particulier.
+A0214,E011,2023-02-02,Site web,2,"Le service est standard, comme ailleurs."
+A0093,E057,2023-02-02,Site web,2,Le prix ne correspond pas du tout à la qualité.  Trop d'erreurs dans le traitement de ma commande.
+A0002,E075,2023-02-03,Application mobile,5,"Livraison rapide, je suis très satisfait."
+A0055,E030,2023-02-03,Réseaux sociaux,3,RIEN À SIGNALER DE PARTICULIER.
+A0171,E016,2023-02-04,Réseaux sociaux,2,Le délai de livraison a été beaucoup trop long. Le service après-vente n'a jamais répondu.
+A0015,E061,2023-02-04,Application mobile,3,Le service client a été très réactif.
+A0298,E063,2023-02-06,Site web,4,Un accompagnement personnalisé et efficace.
+A0150,E072,2023-02-06,Application mobile,5,"Livraison rapide, je suis très satisfait."
+A0147,E049,2023-02-07,Réseaux sociaux,2,Le prix ne correspond pas du tout à la qualité. Le délai de livraison a été beaucoup trop long.
+A0212,E077,2023-02-07,Application mobile,4,Le rapport qualité-prix est excellent.
+A0226,E021,2023-02-09,Application mobile,5,Le rapport qualité-prix est excellent.
+A0152,E005,2023-02-12,Application mobile,2,  Le service après-vente n'a jamais répondu.   
+A0255,E045,2023-02-15,Réseaux sociaux,5,"  Livraison rapide, je suis très satisfait.   "
+A0213,E017,2023-02-16,Site web,1,Je suis déçu par la qualité du produit.
+A0099,E032,2023-02-16,Application mobile,4,L'ÉQUIPE A ÉTÉ À L'ÉCOUTE DE MES BESOINS.  LE SERVICE CLIENT A ÉTÉ TRÈS RÉACTIF.
+A0232,E036,2023-02-16,Site web,1,Le service après-vente n'a jamais répondu.
+A0108,E062,2023-02-17,Site web,1,"Une expérience correcte, sans plus."
+A0244,E071,2023-02-18,Site web,5,
+A0282,E007,2023-02-18,Application mobile,5,Un accompagnement personnalisé et efficace.
+A0100,E043,2023-02-18,Site web,5,  Livraison dans les délais annoncés.   
+A0088,E009,2023-02-20,Site web,2,Personne n'a pris en charge ma réclamation. Le service après-vente n'a jamais répondu.
+A0098,E063,2023-02-22,Réseaux sociaux,4,Un accompagnement personnalisé et efficace.
+A0288,E004,2023-02-24,Réseaux sociaux,2,Le prix ne correspond pas du tout à la qualité.
+A0286,E033,2023-02-24,Application mobile,3,Livraison dans les délais annoncés.
+A0174,E026,2023-02-27,Réseaux sociaux,2,Le délai de livraison a été beaucoup trop long. Personne n'a pris en charge ma réclamation.!!!
+A0116,E024,2023-02-28,Site web,1,"Le service est standard, comme ailleurs."
+A0144,E017,2023-03-01,Site web,2,"  Une expérience décevante, je ne recommande pas.   "
+A0097,E057,2023-03-02,Application mobile,4,UN ACCOMPAGNEMENT PERSONNALISÉ ET EFFICACE.  LE RAPPORT QUALITÉ-PRIX EST EXCELLENT.!!!
+A0216,E052,2023-03-03,Application mobile,4,Le produit correspond à la description.
+A0016,E004,2023-03-05,Application mobile,4,Très bonne expérience du début à la fin.
+A0188,E038,2023-03-08,Site web,2,Le service après-vente n'a jamais répondu.
+A0101,E048,2023-03-09,Application mobile,2,Le délai de livraison a été beaucoup trop long. Le service après-vente n'a jamais répondu.
+A0272,E024,2023-03-10,Site web,5,L'ÉQUIPE A ÉTÉ À L'ÉCOUTE DE MES BESOINS.
+A0193,E018,2023-03-13,Réseaux sociaux,3,"Personne n'a pris en charge ma réclamation. Une expérience décevante, je ne recommande pas."
+A0233,E044,2023-03-13,Application mobile,3,Le rapport qualité-prix est excellent.
+A0066,E014,2023-03-15,Réseaux sociaux,4,L'équipe a été à l'écoute de mes besoins.
+A0168,E070,2023-03-16,Application mobile,3,"Personne n'a pris en charge ma réclamation. Une expérience décevante, je ne recommande pas.!!!"
+A0121,E067,2023-03-19,Site web,3,Rien à signaler de particulier.
+A0104,E020,2023-03-19,Application mobile,4,Le produit correspond parfaitement à mes attentes.
+A0155,E031,2023-03-21,Site web,3,Le produit correspond parfaitement à mes attentes.
+A0207,E079,2023-03-23,Site web,3,Le produit correspond parfaitement à mes attentes. Un accompagnement personnalisé et efficace.
+A0136,E006,2023-03-23,Application mobile,5,"Une expérience correcte, sans plus."
+A0167,E016,2023-03-23,Réseaux sociaux,5,"L'équipe a été à l'écoute de mes besoins.  Livraison rapide, je suis très satisfait."
+A0201,E075,2023-03-24,Application mobile,5,"Je recommande vivement cette entreprise.  Livraison rapide, je suis très satisfait."
+A0177,E038,2023-03-24,Application mobile,3,"Le service est standard, comme ailleurs."
+A0194,E033,2023-03-24,Réseaux sociaux,1,"Une expérience correcte, sans plus."
+A0090,E005,2023-03-26,Application mobile,5,Très bonne expérience du début à la fin.
+A0114,E061,2023-03-27,Réseaux sociaux,5,Le service client a été très réactif.
+A0077,E007,2023-03-29,Site web,2,"Une expérience décevante, je ne recommande pas."
+A0056,E037,2023-04-01,Réseaux sociaux,1,Livraison dans les délais annoncés.
+A0095,E050,2023-04-01,Réseaux sociaux,3,Je recommande vivement cette entreprise.
+A0267,E021,2023-04-05,Site web,1,Personne n'a pris en charge ma réclamation.  Le prix ne correspond pas du tout à la qualité.
+A0267,E021,2023-04-05,Site web,1,Personne n'a pris en charge ma réclamation.  Le prix ne correspond pas du tout à la qualité.
+A0013,E073,2023-04-06,Réseaux sociaux,1,Le produit correspond à la description.
+A0300,E028,2023-04-07,Application mobile,3,Le produit correspond à la description.
+A0031,E035,2023-04-09,Site web,4,Le service client a été très réactif. Le rapport qualité-prix est excellent.
+A0184,E059,2023-04-10,Application mobile,3,"Je suis déçu par la qualité du produit. Une expérience décevante, je ne recommande pas."
+A0128,E070,2023-04-11,Réseaux sociaux,1,Le service après-vente n'a jamais répondu. Trop d'erreurs dans le traitement de ma commande.
+A0195,E077,2023-04-11,Application mobile,5,Le produit correspond à la description.
+A0187,E063,2023-04-12,Site web,5,L'équipe a été à l'écoute de mes besoins. Le rapport qualité-prix est excellent.
+A0273,E032,2023-04-16,Application mobile,4,Le rapport qualité-prix est excellent.
+A0157,E032,2023-04-17,Application mobile,5,"Une expérience correcte, sans plus."
+A0048,E035,2023-04-18,Réseaux sociaux,4,Je recommande vivement cette entreprise.
+A0227,E018,2023-04-21,Réseaux sociaux,2,"Une expérience correcte, sans plus."
+A0125,E014,2023-04-21,Application mobile,5,Livraison dans les délais annoncés.
+A0227,E018,2023-04-21,Réseaux sociaux,2,"Une expérience correcte, sans plus."
+A0242,E079,2023-04-24,Site web,1,"Une expérience décevante, je ne recommande pas."
+A0192,E013,2023-04-25,Site web,1,Le site est peu clair et difficile à utiliser.
+A0045,E072,2023-04-25,Site web,5,Un accompagnement personnalisé et efficace. Le rapport qualité-prix est excellent.
+A0138,E026,2023-04-27,Site web,1,"Le service est standard, comme ailleurs."
+A0209,E053,2023-04-27,Application mobile,2,Personne n'a pris en charge ma réclamation.  Le service après-vente n'a jamais répondu.
+A0076,E004,2023-04-29,Réseaux sociaux,4,Le rapport qualité-prix est excellent.
+A0269,E008,2023-04-30,Application mobile,2,"Une expérience décevante, je ne recommande pas. Trop d'erreurs dans le traitement de ma commande."
+A0263,E061,2023-04-30,Réseaux sociaux,3,Le site est peu clair et difficile à utiliser. Je suis déçu par la qualité du produit.
+A0154,E076,2023-04-30,Application mobile,3,Livraison dans les délais annoncés.
+A0161,E075,2023-05-01,Réseaux sociaux,1,  Le site est peu clair et difficile à utiliser.   
+A0292,E070,2023-05-01,Application mobile,3,Un accompagnement personnalisé et efficace. L'équipe a été à l'écoute de mes besoins.
+A0065,E025,2023-05-02,Site web,3,Très bonne expérience du début à la fin. L'équipe a été à l'écoute de mes besoins.
+A0206,E020,2023-05-03,Réseaux sociaux,4,"Une expérience correcte, sans plus."
+A0266,E075,2023-05-03,Application mobile,2,Trop d'erreurs dans le traitement de ma commande. Je suis déçu par la qualité du produit.!!!
+A0081,E055,2023-05-05,Application mobile,2,Le prix ne correspond pas du tout à la qualité.
+A0083,E074,2023-05-09,Site web,3,Livraison dans les délais annoncés.!!!
+A0151,E043,2023-05-11,Application mobile,2,Le délai de livraison a été beaucoup trop long. Le service après-vente n'a jamais répondu.!!!
+A0173,E023,2023-05-12,Site web,3,Le produit correspond parfaitement à mes attentes.
+A0225,E019,2023-05-12,Réseaux sociaux,2,Le service après-vente n'a jamais répondu.
+A0254,E053,2023-05-12,Site web,1,Je suis déçu par la qualité du produit.
+A0148,E042,2023-05-13,Site web,2,"Je suis déçu par la qualité du produit. Une expérience décevante, je ne recommande pas.!!!"
+A0189,E025,2023-05-14,Application mobile,2,"Une expérience décevante, je ne recommande pas."
+A0038,E028,2023-05-15,Application mobile,2,Je suis déçu par la qualité du produit.
+A0258,E073,2023-05-19,Application mobile,2,Le site est peu clair et difficile à utiliser.  Le délai de livraison a été beaucoup trop long.
+A0196,E047,2023-05-19,Réseaux sociaux,5,L'équipe a été à l'écoute de mes besoins.
+A0107,E072,2023-05-21,Application mobile,2,"Une expérience décevante, je ne recommande pas. Trop d'erreurs dans le traitement de ma commande."
+A0146,E053,2023-05-21,Réseaux sociaux,5,"Livraison rapide, je suis très satisfait. Je recommande vivement cette entreprise."
+A0252,E070,2023-05-23,Site web,3,"Livraison rapide, je suis très satisfait. Le produit correspond parfaitement à mes attentes."
+A0163,E016,2023-05-23,Réseaux sociaux,5,"Le service est standard, comme ailleurs."
+A0280,E035,2023-05-24,Application mobile,1,Personne n'a pris en charge ma réclamation.!!!
+A0205,E069,2023-05-25,Réseaux sociaux,5,L'équipe a été à l'écoute de mes besoins. Le rapport qualité-prix est excellent.
+A0103,E053,2023-05-25,Site web,3,  Le site est peu clair et difficile à utiliser.   
+A0224,E013,2023-05-25,Application mobile,4,Le produit correspond parfaitement à mes attentes.
+A0071,E002,2023-05-26,Réseaux sociaux,5,Très bonne expérience du début à la fin.
+A0133,E030,2023-05-30,Site web,4,Un accompagnement personnalisé et efficace. L'équipe a été à l'écoute de mes besoins.
+A0004,E004,2023-05-30,Site web,4,L'équipe a été à l'écoute de mes besoins.
+A0091,E070,2023-05-30,Application mobile,1,LE PRIX NE CORRESPOND PAS DU TOUT À LA QUALITÉ.
+A0023,E072,2023-05-30,Application mobile,4,Le produit correspond à la description.
+A0010,E053,2023-06-02,Réseaux sociaux,5,L'équipe a été à l'écoute de mes besoins.
+A0164,E011,2023-06-02,Site web,3,Livraison dans les délais annoncés.
+A0287,E067,2023-06-02,Site web,5,L'équipe a été à l'écoute de mes besoins.
+A0010,E053,2023-06-02,Réseaux sociaux,5,L'équipe a été à l'écoute de mes besoins.
+A0126,E027,2023-06-03,Site web,5,L'équipe a été à l'écoute de mes besoins. Un accompagnement personnalisé et efficace.
+A0102,E012,2023-06-03,Réseaux sociaux,3,Le produit correspond à la description.
+A0029,E034,2023-06-07,Application mobile,1,"Une expérience décevante, je ne recommande pas. Le service après-vente n'a jamais répondu."
+A0260,E014,2023-06-08,Site web,5,Le produit correspond parfaitement à mes attentes. L'équipe a été à l'écoute de mes besoins.
+A0182,E035,2023-06-08,Application mobile,5,Un accompagnement personnalisé et efficace. Très bonne expérience du début à la fin.
+A0072,E056,2023-06-13,Application mobile,5,"  Livraison rapide, je suis très satisfait.   "
+A0106,E070,2023-06-16,Site web,1,
+A0122,E032,2023-06-17,Réseaux sociaux,5,UN ACCOMPAGNEMENT PERSONNALISÉ ET EFFICACE.!!!
+A0037,E067,2023-06-18,Réseaux sociaux,5,Je recommande vivement cette entreprise. Le produit correspond parfaitement à mes attentes.
+A0295,E051,2023-06-20,Site web,1,Le site est peu clair et difficile à utiliser.
+A0239,E042,2023-06-22,Réseaux sociaux,4,Le produit correspond parfaitement à mes attentes.  Je recommande vivement cette entreprise.
+A0018,E044,2023-06-22,Réseaux sociaux,3,Le service client a été très réactif.
+A0149,E067,2023-06-23,Réseaux sociaux,1,Le produit correspond à la description.
+A0198,E035,2023-06-24,Réseaux sociaux,1,"Une expérience décevante, je ne recommande pas."
+A0241,E069,2023-06-24,Réseaux sociaux,3,"Le service client a été très réactif. Livraison rapide, je suis très satisfait."
+A0073,E071,2023-06-24,Réseaux sociaux,2,Le prix ne correspond pas du tout à la qualité. Le délai de livraison a été beaucoup trop long.
+A0234,E039,2023-06-25,Réseaux sociaux,5,  L'équipe a été à l'écoute de mes besoins. Le rapport qualité-prix est excellent.   
+A0234,E039,2023-06-25,Réseaux sociaux,5,  L'équipe a été à l'écoute de mes besoins. Le rapport qualité-prix est excellent.   
+A0039,E069,2023-06-25,Réseaux sociaux,2,Le prix ne correspond pas du tout à la qualité.
+A0131,E057,2023-06-28,Application mobile,3,Le rapport qualité-prix est excellent. Je recommande vivement cette entreprise.
+A0025,E070,2023-07-02,Application mobile,4,Un accompagnement personnalisé et efficace.
+A0007,E063,2023-07-04,Application mobile,5,Très bonne expérience du début à la fin.
+A0070,E030,2023-07-04,Application mobile,1,Trop d'erreurs dans le traitement de ma commande. Le prix ne correspond pas du tout à la qualité.
+A0074,E058,2023-07-05,Réseaux sociaux,4,Livraison dans les délais annoncés.
+A0064,E069,2023-07-05,Application mobile,5,
+A0057,E037,2023-07-05,Réseaux sociaux,3,Le produit correspond à la description.
+A0001,E056,2023-07-07,Site web,1,LE SITE EST PEU CLAIR ET DIFFICILE À UTILISER. LE PRIX NE CORRESPOND PAS DU TOUT À LA QUALITÉ.
+A0165,E076,2023-07-09,Application mobile,1,Le site est peu clair et difficile à utiliser.!!!
+A0179,E043,2023-07-09,Site web,3,"Trop d'erreurs dans le traitement de ma commande. Une expérience décevante, je ne recommande pas."
+A0035,E075,2023-07-11,Réseaux sociaux,1,  Trop d'erreurs dans le traitement de ma commande. Le service après-vente n'a jamais répondu.   
+A0293,E079,2023-07-12,Site web,5,L'équipe a été à l'écoute de mes besoins. Très bonne expérience du début à la fin.
+A0229,E051,2023-07-12,Site web,3,Livraison dans les délais annoncés.
+A0079,E050,2023-07-13,Site web,2,Le service après-vente n'a jamais répondu.  Le site est peu clair et difficile à utiliser.
+A0223,E018,2023-07-16,Réseaux sociaux,3,
+A0053,E068,2023-07-17,Réseaux sociaux,5,UN ACCOMPAGNEMENT PERSONNALISÉ ET EFFICACE. LE PRODUIT CORRESPOND PARFAITEMENT À MES ATTENTES.
+A0172,E025,2023-07-19,Application mobile,5,"Un accompagnement personnalisé et efficace. Livraison rapide, je suis très satisfait."
+A0228,E051,2023-07-19,Site web,3,Le produit correspond parfaitement à mes attentes.
+A0264,E021,2023-07-21,Application mobile,3,Livraison dans les délais annoncés.
+A0142,E066,2023-07-21,Application mobile,1,"Une expérience décevante, je ne recommande pas."
+A0019,E025,2023-07-22,Site web,2,LE SITE EST PEU CLAIR ET DIFFICILE À UTILISER. LE PRIX NE CORRESPOND PAS DU TOUT À LA QUALITÉ.
+A0291,E032,2023-07-22,Application mobile,3,Rien à signaler de particulier.
+A0265,E063,2023-07-23,Site web,3,Trop d'erreurs dans le traitement de ma commande. Personne n'a pris en charge ma réclamation.
+A0175,E018,2023-07-25,Site web,2,"Le service est standard, comme ailleurs."
+A0160,E074,2023-07-25,Site web,5,  Le produit correspond à la description.   
+A0008,E054,2023-07-26,Application mobile,1,Le prix ne correspond pas du tout à la qualité.
+A0170,E070,2023-07-27,Réseaux sociaux,5,Le rapport qualité-prix est excellent. Le service client a été très réactif.
+A0140,E060,2023-07-28,Réseaux sociaux,5,"Livraison rapide, je suis très satisfait."
+A0105,E076,2023-07-28,Application mobile,3,Un accompagnement personnalisé et efficace. Très bonne expérience du début à la fin.
+A0166,E014,2023-08-01,Application mobile,3,Livraison dans les délais annoncés.!!!
+A0124,E077,2023-08-02,Site web,3,"Une expérience correcte, sans plus."
+A0297,E061,2023-08-02,Application mobile,1,Je suis déçu par la qualité du produit.  Le prix ne correspond pas du tout à la qualité.
+A0068,E080,2023-08-03,Réseaux sociaux,2,RIEN À SIGNALER DE PARTICULIER.
+A0060,E019,2023-08-03,Application mobile,3,Rien à signaler de particulier.
+A0270,E016,2023-08-04,Site web,4,Le rapport qualité-prix est excellent.!!!
+A0028,E054,2023-08-06,Application mobile,5,Je recommande vivement cette entreprise.!!!
+A0275,E011,2023-08-07,Application mobile,1,
+A0238,E005,2023-08-13,Réseaux sociaux,1,  Le site est peu clair et difficile à utiliser. Le service après-vente n'a jamais répondu.   
+A0219,E050,2023-08-14,Réseaux sociaux,2,Je suis déçu par la qualité du produit.
+A0135,E033,2023-08-15,Réseaux sociaux,1,Trop d'erreurs dans le traitement de ma commande. Le délai de livraison a été beaucoup trop long.
+A0156,E065,2023-08-20,Application mobile,5,Rien à signaler de particulier.
+A0006,E067,2023-08-21,Site web,1,Le délai de livraison a été beaucoup trop long. Je suis déçu par la qualité du produit.
+A0261,E023,2023-08-28,Site web,4,LE RAPPORT QUALITÉ-PRIX EST EXCELLENT. LE SERVICE CLIENT A ÉTÉ TRÈS RÉACTIF.
+A0159,E067,2023-08-28,Réseaux sociaux,4,L'équipe a été à l'écoute de mes besoins. Le rapport qualité-prix est excellent.!!!
+A0123,E025,2023-08-29,Application mobile,1,Le prix ne correspond pas du tout à la qualité. Personne n'a pris en charge ma réclamation.
+A0127,E059,2023-08-30,Site web,4,L'équipe a été à l'écoute de mes besoins.  Le rapport qualité-prix est excellent.
+A0052,E049,2023-09-02,Réseaux sociaux,1,Le site est peu clair et difficile à utiliser.!!!
+A0178,E014,2023-09-03,Site web,3,Le rapport qualité-prix est excellent. Le produit correspond parfaitement à mes attentes.
+A0087,E036,2023-09-03,Réseaux sociaux,1,Personne n'a pris en charge ma réclamation. Le site est peu clair et difficile à utiliser.
+A0003,E051,2023-09-05,Réseaux sociaux,5,Le rapport qualité-prix est excellent.
+A0253,E058,2023-09-06,Application mobile,3,"Livraison rapide, je suis très satisfait."
+A0120,E066,2023-09-06,Application mobile,3,"Trop d'erreurs dans le traitement de ma commande. Une expérience décevante, je ne recommande pas."
+A0050,E009,2023-09-06,Réseaux sociaux,4,Le service client a été très réactif.
+A0245,E036,2023-09-08,Application mobile,3,Le service après-vente n'a jamais répondu.!!!
+A0094,E009,2023-09-08,Réseaux sociaux,5,"Livraison rapide, je suis très satisfait."
+A0283,E008,2023-09-09,Site web,3,Livraison dans les délais annoncés.
+A0278,E078,2023-09-11,Site web,1,Le service après-vente n'a jamais répondu.
+A0082,E069,2023-09-13,Réseaux sociaux,4,
+A0186,E039,2023-09-16,Application mobile,1,"Une expérience décevante, je ne recommande pas. Je suis déçu par la qualité du produit."
+A0277,E028,2023-09-17,Réseaux sociaux,3,  Trop d'erreurs dans le traitement de ma commande.   
+A0143,E060,2023-09-18,Application mobile,3,Je suis déçu par la qualité du produit. Le prix ne correspond pas du tout à la qualité.
+A0256,E034,2023-09-18,Réseaux sociaux,2,
+A0181,E005,2023-09-19,Site web,2,Personne n'a pris en charge ma réclamation.
+A0284,E001,2023-09-22,Site web,5,Un accompagnement personnalisé et efficace.  L'équipe a été à l'écoute de mes besoins.
+A0240,E078,2023-09-23,Application mobile,3,"Le service est standard, comme ailleurs."
+A0185,E013,2023-09-23,Réseaux sociaux,1,"Le service est standard, comme ailleurs."
+A0043,E014,2023-09-23,Réseaux sociaux,4,Je recommande vivement cette entreprise. L'équipe a été à l'écoute de mes besoins.
+A0044,E075,2023-09-24,Application mobile,5,"  Je recommande vivement cette entreprise.  Livraison rapide, je suis très satisfait.   "
+A0199,E080,2023-09-24,Site web,5,"Je recommande vivement cette entreprise. Livraison rapide, je suis très satisfait."
+A0180,E080,2023-09-25,Application mobile,3,Le produit correspond à la description.!!!
+A0285,E067,2023-09-26,Site web,1,"  UNE EXPÉRIENCE CORRECTE, SANS PLUS.   "
+A0040,E015,2023-09-26,Site web,2,"Une expérience décevante, je ne recommande pas. Le prix ne correspond pas du tout à la qualité."
+A0183,E004,2023-09-26,Application mobile,4,"Une expérience correcte, sans plus."
+A0247,E048,2023-09-27,Site web,1,LE SERVICE APRÈS-VENTE N'A JAMAIS RÉPONDU.
+A0113,E021,2023-09-28,Site web,4,"Livraison rapide, je suis très satisfait. L'équipe a été à l'écoute de mes besoins."
+A0085,E079,2023-09-28,Site web,3,
+A0078,E009,2023-09-28,Réseaux sociaux,1,Je suis déçu par la qualité du produit.
+A0204,E079,2023-09-29,Site web,1,Trop d'erreurs dans le traitement de ma commande.
+A0204,E079,2023-09-29,Site web,1,Trop d'erreurs dans le traitement de ma commande.
+A0092,E026,2023-09-29,Site web,3,
+A0276,E070,2023-10-01,Application mobile,5,JE RECOMMANDE VIVEMENT CETTE ENTREPRISE. TRÈS BONNE EXPÉRIENCE DU DÉBUT À LA FIN.
+A0054,E059,2023-10-01,Application mobile,3,"L'équipe a été à l'écoute de mes besoins. Livraison rapide, je suis très satisfait."
+A0084,E077,2023-10-02,Application mobile,3,Rien à signaler de particulier.
+A0203,E044,2023-10-05,Application mobile,5,"LIVRAISON RAPIDE, JE SUIS TRÈS SATISFAIT."
+A0268,E058,2023-10-06,Application mobile,2,Je suis déçu par la qualité du produit.
+A0069,E064,2023-10-06,Application mobile,3,Le service après-vente n'a jamais répondu.
+A0132,E080,2023-10-07,Site web,4,"Livraison rapide, je suis très satisfait. L'équipe a été à l'écoute de mes besoins."
+A0246,E009,2023-10-07,Réseaux sociaux,2,LE SITE EST PEU CLAIR ET DIFFICILE À UTILISER.
+A0220,E033,2023-10-09,Site web,3,"LE PRIX NE CORRESPOND PAS DU TOUT À LA QUALITÉ. UNE EXPÉRIENCE DÉCEVANTE, JE NE RECOMMANDE PAS."
+A0215,E007,2023-10-10,Site web,1,TROP D'ERREURS DANS LE TRAITEMENT DE MA COMMANDE.
+A0208,E023,2023-10-12,Site web,3,Le service client a été très réactif.
+A0058,E010,2023-10-14,Application mobile,3,Rien à signaler de particulier.
+A0248,E062,2023-10-15,Application mobile,1,"UNE EXPÉRIENCE CORRECTE, SANS PLUS."
+A0190,E041,2023-10-16,Application mobile,4,"Une expérience correcte, sans plus."
+A0249,E079,2023-10-17,Application mobile,4,"LE SERVICE EST STANDARD, COMME AILLEURS."
+A0176,E016,2023-10-18,Site web,2,Le service après-vente n'a jamais répondu.
+A0200,E016,2023-10-18,Site web,4,L'équipe a été à l'écoute de mes besoins.
+A0137,E015,2023-10-18,Application mobile,3,Je recommande vivement cette entreprise.
+A0096,E044,2023-10-19,Site web,3,
+A0211,E060,2023-10-19,Site web,2,Le site est peu clair et difficile à utiliser. Le prix ne correspond pas du tout à la qualité.
+A0274,E064,2023-10-20,Application mobile,2,LE DÉLAI DE LIVRAISON A ÉTÉ BEAUCOUP TROP LONG. TROP D'ERREURS DANS LE TRAITEMENT DE MA COMMANDE.
+A0197,E059,2023-10-23,Réseaux sociaux,5,Le service client a été très réactif.  Je recommande vivement cette entreprise.
+A0014,E008,2023-10-23,Application mobile,4,Le service client a été très réactif.
+A0061,E044,2023-10-23,Réseaux sociaux,4,Le rapport qualité-prix est excellent.
+A0112,E006,2023-10-26,Réseaux sociaux,5,Livraison dans les délais annoncés.
+A0009,E035,2023-10-27,Site web,1,Le délai de livraison a été beaucoup trop long. Personne n'a pris en charge ma réclamation.
+A0117,E063,2023-10-29,Application mobile,5,Rien à signaler de particulier.
+A0299,E072,2023-10-30,Application mobile,2,
+A0033,E013,2023-10-31,Site web,5,"  Livraison rapide, je suis très satisfait.  Le rapport qualité-prix est excellent.   "
+A0191,E052,2023-11-02,Réseaux sociaux,3,Personne n'a pris en charge ma réclamation. Le délai de livraison a été beaucoup trop long.
+A0134,E011,2023-11-03,Site web,2,Le site est peu clair et difficile à utiliser.
+A0281,E023,2023-11-04,Site web,1,Le service après-vente n'a jamais répondu.
+A0290,E004,2023-11-05,Application mobile,4,Le produit correspond à la description.
+A0271,E008,2023-11-07,Site web,1,"Une expérience décevante, je ne recommande pas. Personne n'a pris en charge ma réclamation."
+A0047,E022,2023-11-07,Réseaux sociaux,4,L'équipe a été à l'écoute de mes besoins.
+A0141,E043,2023-11-07,Réseaux sociaux,5,  LE RAPPORT QUALITÉ-PRIX EST EXCELLENT.   
+A0034,E064,2023-11-07,Application mobile,3,Livraison dans les délais annoncés.
+A0080,E063,2023-11-08,Réseaux sociaux,4,Livraison dans les délais annoncés.
+A0158,E031,2023-11-12,Site web,2,JE SUIS DÉÇU PAR LA QUALITÉ DU PRODUIT. LE SITE EST PEU CLAIR ET DIFFICILE À UTILISER.
+A0210,E028,2023-11-13,Site web,4,L'équipe a été à l'écoute de mes besoins.
+A0279,E059,2023-11-15,Application mobile,1,Le site est peu clair et difficile à utiliser. Le délai de livraison a été beaucoup trop long.
+A0115,E068,2023-11-17,Réseaux sociaux,4,"Livraison rapide, je suis très satisfait."
+A0109,E047,2023-11-18,Application mobile,1,  Je suis déçu par la qualité du produit.   
+A0024,E021,2023-11-22,Site web,5,L'équipe a été à l'écoute de mes besoins.
+A0022,E013,2023-11-22,Site web,2,Le service après-vente n'a jamais répondu.  Trop d'erreurs dans le traitement de ma commande.
+A0139,E005,2023-11-27,Réseaux sociaux,3,Le produit correspond à la description.
+A0051,E012,2023-11-28,Site web,5,L'équipe a été à l'écoute de mes besoins.
+A0202,E032,2023-12-01,Application mobile,5,Le service client a été très réactif.
+A0020,E050,2023-12-01,Réseaux sociaux,1,Je suis déçu par la qualité du produit.
+A0067,E032,2023-12-02,Site web,5,L'ÉQUIPE A ÉTÉ À L'ÉCOUTE DE MES BESOINS. LE PRODUIT CORRESPOND PARFAITEMENT À MES ATTENTES.
+A0032,E006,2023-12-04,Site web,5,Très bonne expérience du début à la fin.  Le service client a été très réactif.
+A0257,E006,2023-12-05,Application mobile,5,"Livraison rapide, je suis très satisfait. Le service client a été très réactif.!!!"
+A0026,E019,2023-12-05,Réseaux sociaux,3,
+A0294,E010,2023-12-05,Réseaux sociaux,1,"  Une expérience correcte, sans plus.   "
+A0251,E001,2023-12-06,Réseaux sociaux,2,  Rien à signaler de particulier.   
+A0030,E067,2023-12-07,Réseaux sociaux,4,Le service client a été très réactif. Je recommande vivement cette entreprise.
+A0046,E076,2023-12-08,Application mobile,5,Rien à signaler de particulier.
+A0041,E042,2023-12-08,Réseaux sociaux,2,Trop d'erreurs dans le traitement de ma commande.  Le site est peu clair et difficile à utiliser.
+A0011,E008,2023-12-09,Site web,2,Le délai de livraison a été beaucoup trop long.
+A0005,E016,2023-12-10,Application mobile,5,Très bonne expérience du début à la fin.
+A0145,E011,2023-12-14,Réseaux sociaux,1,Personne n'a pris en charge ma réclamation. Trop d'erreurs dans le traitement de ma commande.
+A0021,E017,2023-12-14,Application mobile,2,Personne n'a pris en charge ma réclamation.
+A0129,E062,2023-12-14,Application mobile,1,"Une expérience décevante, je ne recommande pas."
+A0217,E021,2023-12-14,Réseaux sociaux,1,Le site est peu clair et difficile à utiliser.
+A0237,E042,2023-12-14,Application mobile,1,"  Le service est standard, comme ailleurs.   "
+A0017,E013,2023-12-16,Application mobile,4,Rien à signaler de particulier.!!!
+A0221,E038,2023-12-17,Application mobile,5,Le service client a été très réactif. Très bonne expérience du début à la fin.
+A0118,E077,2023-12-17,Site web,2,Le service après-vente n'a jamais répondu.
+A0110,E008,2023-12-17,Site web,2,
+A0162,E020,2023-12-19,Site web,5,Le service client a été très réactif. L'équipe a été à l'écoute de mes besoins.
+A0222,E042,2023-12-20,Réseaux sociaux,4,Le produit correspond parfaitement à mes attentes. Le service client a été très réactif.
+A0075,E053,2023-12-21,Réseaux sociaux,5,Le produit correspond parfaitement à mes attentes.
+A0119,E010,2023-12-21,Application mobile,1,Le prix ne correspond pas du tout à la qualité.
+A0230,E036,2023-12-23,Site web,3,Le produit correspond parfaitement à mes attentes.!!!
+A0036,E020,2023-12-24,Site web,1,Le délai de livraison a été beaucoup trop long.
+A0111,E009,2023-12-26,Application mobile,4,"Livraison rapide, je suis très satisfait. Le service client a été très réactif."
+A0218,E025,2023-12-26,Application mobile,4,Le produit correspond parfaitement à mes attentes. Très bonne expérience du début à la fin.
+A0259,E048,2023-12-28,Application mobile,2,JE SUIS DÉÇU PAR LA QUALITÉ DU PRODUIT.
+A0296,E031,2023-12-31,Application mobile,5,"Une expérience correcte, sans plus."

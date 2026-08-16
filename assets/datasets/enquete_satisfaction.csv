@@ -1,0 +1,261 @@
+repondant_id,date_debut,duree_secondes,progression_pct,termine,age,genre,secteur,taille_entreprise,anciennete_annees,q1_ambiance,q2_reconnaissance,q3_charge_travail_inv,q4_evolution,q_attention,q5_recommandation,commentaire
+R0001,2024-03-03,425,100,True,31,Homme,Santé,Moyenne (50-250),4.6,2,1,2,4.0,4.0,4.0,
+R0002,2024-03-24,312,44,False,28,Femme,Industrie,Petite (<50),4.3,5,2,4,,,,
+R0003,2024-03-20,260,100,True,34,Autre / ne se prononce pas,Technologies,Petite (<50),9.1,4,1,4,3.0,4.0,4.0,Le management pourrait davantage communiquer sur les décisions.
+R0004,2024-03-14,387,71,False,24,Homme,Industrie,Moyenne (50-250),7.7,2,3,5,,,,
+R0005,2024-03-13,84,100,True,44,Femme,Technologies,Petite (<50),7.6,3,3,3,3.0,4.0,5.0,
+R0006,2024-03-26,98,100,True,35,Homme,Commerce,Petite (<50),8.0,3,3,3,1.0,4.0,3.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0007,2024-03-03,351,100,True,23,Femme,Services aux entreprises,Grande (>250),9.1,4,5,4,3.0,3.0,5.0,
+R0008,2024-03-21,285,100,True,27,Autre / ne se prononce pas,Technologies,Grande (>250),0.0,4,4,4,3.0,4.0,3.0,
+R0009,2024-03-07,302,27,False,41,Homme,Services aux entreprises,Grande (>250),4.2,2,4,3,,,,
+R0010,2024-03-03,160,100,True,46,Homme,Santé,Moyenne (50-250),0.0,3,2,3,4.0,4.0,3.0,Le management pourrait davantage communiquer sur les décisions.
+R0011,2024-03-16,277,100,True,57,Femme,Services aux entreprises,Grande (>250),6.2,3,2,4,3.0,4.0,3.0,Rien de particulier à signaler.
+R0012,2024-03-30,460,100,True,65,Homme,Santé,Moyenne (50-250),6.0,5,3,2,2.0,4.0,3.0,Le management pourrait davantage communiquer sur les décisions.
+R0013,2024-03-23,25,100,True,42,Femme,Technologies,Petite (<50),11.2,2,3,3,3.0,4.0,4.0,
+R0014,2024-03-23,295,100,True,28,Femme,Commerce,Petite (<50),11.9,5,1,3,3.0,1.0,4.0,
+R0015,2024-03-22,240,100,True,20,Femme,Technologies,Grande (>250),7.0,4,3,4,3.0,2.0,3.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0016,2024-03-24,244,23,False,40,Homme,Services aux entreprises,Petite (<50),3.5,2,3,3,,,,
+R0017,2024-03-16,88,100,True,29,Femme,Services aux entreprises,Moyenne (50-250),8.4,3,3,1,4.0,4.0,3.0,
+R0018,2024-03-04,303,100,True,33,Homme,Industrie,Grande (>250),3.4,3,2,1,2.0,4.0,5.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0019,2024-03-26,356,100,True,31,Homme,Industrie,Petite (<50),6.0,2,2,2,3.0,4.0,3.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0020,2024-03-14,16,100,True,36,Femme,Services aux entreprises,Petite (<50),10.9,4,3,2,4.0,4.0,5.0,Le management pourrait davantage communiquer sur les décisions.
+R0021,2024-03-16,220,100,True,48,Femme,Industrie,Grande (>250),3.2,2,3,3,1.0,4.0,3.0,
+R0022,2024-03-12,175,100,True,39,Femme,Santé,Moyenne (50-250),10.0,1,4,2,3.0,4.0,4.0,
+R0023,2024-03-06,193,100,True,36,Homme,Santé,Petite (<50),9.4,3,4,3,2.0,4.0,2.0,
+R0024,2024-03-28,284,42,False,27,Homme,Technologies,Grande (>250),1.2,2,3,3,,,,
+R0025,2024-03-24,92,100,True,21,Femme,Technologies,Grande (>250),10.9,3,3,3,2.0,4.0,4.0,
+R0026,2024-03-20,335,100,True,33,Homme,Services aux entreprises,Moyenne (50-250),9.5,3,3,5,3.0,4.0,5.0,
+R0027,2024-03-13,347,100,True,37,Femme,Industrie,Moyenne (50-250),6.5,3,4,4,5.0,4.0,4.0,
+R0028,2024-03-25,257,100,True,55,Homme,Commerce,Petite (<50),2.2,5,3,3,2.0,4.0,5.0,
+R0029,2024-03-17,56,100,True,39,Homme,Services aux entreprises,Petite (<50),1.7,4,4,3,2.0,4.0,4.0,
+R0030,2024-03-14,190,82,False,47,Homme,Santé,Moyenne (50-250),3.3,4,4,3,,,,
+R0031,2024-03-14,390,100,True,33,Homme,Commerce,Petite (<50),8.7,2,4,4,5.0,4.0,3.0,
+R0032,2024-03-07,29,100,True,26,Homme,Services aux entreprises,Grande (>250),1.2,3,5,4,2.0,4.0,5.0,
+R0033,2024-03-03,248,100,True,28,Femme,Commerce,Grande (>250),8.2,4,2,2,3.0,4.0,3.0,
+R0034,2024-03-17,173,100,True,30,Femme,Industrie,Petite (<50),0.0,3,3,3,2.0,3.0,3.0,
+R0035,2024-03-27,352,100,True,59,Femme,Industrie,Moyenne (50-250),5.0,5,3,1,2.0,4.0,2.0,
+R0036,2024-03-02,219,100,True,29,Homme,Commerce,Petite (<50),6.5,2,3,4,3.0,4.0,5.0,
+R0037,2024-03-26,316,100,True,46,Homme,Industrie,Grande (>250),18.2,3,2,4,5.0,4.0,4.0,
+R0038,2024-03-25,330,100,True,28,Homme,Industrie,Petite (<50),0.0,3,2,3,4.0,4.0,3.0,
+R0039,2024-03-09,445,100,True,47,Homme,Commerce,Moyenne (50-250),13.4,4,3,5,2.0,4.0,5.0,
+R0040,2024-03-19,261,100,True,41,Femme,Commerce,Moyenne (50-250),6.7,3,2,2,4.0,4.0,4.0,
+R0041,2024-03-05,313,100,True,36,Homme,Services aux entreprises,Moyenne (50-250),8.1,3,3,4,2.0,4.0,5.0,Rien de particulier à signaler.
+R0042,2024-03-23,146,32,False,37,Femme,Industrie,Grande (>250),6.6,3,2,3,,,,
+R0043,2024-03-22,387,100,True,31,Femme,Commerce,Grande (>250),8.2,3,2,3,4.0,4.0,3.0,
+R0044,2024-03-11,211,100,True,42,Homme,Services aux entreprises,Moyenne (50-250),5.2,4,3,3,4.0,4.0,3.0,
+R0045,2024-03-03,229,100,True,33,Autre / ne se prononce pas,Santé,Grande (>250),13.3,4,3,3,4.0,4.0,2.0,
+R0046,2024-03-30,277,100,True,25,Homme,Technologies,Grande (>250),3.7,4,4,4,2.0,4.0,5.0,
+R0047,2024-03-14,139,100,True,25,Femme,Santé,Moyenne (50-250),11.7,3,5,5,3.0,4.0,3.0,
+R0048,2024-03-27,300,100,True,39,Homme,Commerce,Moyenne (50-250),2.8,4,3,3,4.0,4.0,4.0,Le management pourrait davantage communiquer sur les décisions.
+R0049,2024-03-21,367,100,True,53,Femme,Services aux entreprises,Petite (<50),5.7,3,3,4,3.0,4.0,5.0,
+R0050,2024-03-24,306,100,True,39,Homme,Services aux entreprises,Grande (>250),0.6,3,2,3,3.0,4.0,3.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0051,2024-03-23,136,100,True,36,Homme,Santé,Moyenne (50-250),8.3,4,2,4,1.0,4.0,3.0,
+R0052,2024-03-06,268,100,True,40,Femme,Santé,Moyenne (50-250),13.2,5,5,3,3.0,4.0,4.0,
+R0053,2024-03-11,346,100,True,51,Femme,Santé,Petite (<50),5.6,2,2,4,4.0,4.0,4.0,
+R0054,2024-03-15,110,100,True,40,Femme,Technologies,Grande (>250),5.0,4,2,5,2.0,4.0,3.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0055,2024-03-15,183,100,True,33,Autre / ne se prononce pas,Services aux entreprises,Moyenne (50-250),0.4,2,3,3,4.0,4.0,3.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0056,2024-03-02,358,100,True,49,Homme,Services aux entreprises,Grande (>250),4.9,4,3,1,3.0,4.0,5.0,
+R0057,2024-03-17,304,100,True,42,Homme,Santé,Petite (<50),0.0,5,2,3,4.0,4.0,4.0,
+R0058,2024-03-05,317,78,False,53,Homme,Commerce,Grande (>250),1.4,4,3,5,,,,
+R0059,2024-03-23,447,100,True,39,Homme,Commerce,Petite (<50),7.1,4,4,4,2.0,4.0,2.0,
+R0060,2024-03-21,322,100,True,25,Femme,Santé,Petite (<50),12.6,3,2,4,1.0,4.0,5.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0061,2024-03-28,339,35,False,24,Homme,Commerce,Grande (>250),20.0,4,2,4,,,,
+R0062,2024-03-23,523,100,True,54,Femme,Commerce,Grande (>250),3.1,3,4,4,4.0,4.0,3.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0063,2024-03-11,260,100,True,55,Homme,Services aux entreprises,Petite (<50),13.2,3,3,5,2.0,4.0,3.0,Rien de particulier à signaler.
+R0064,2024-03-30,208,100,True,36,Homme,Commerce,Moyenne (50-250),7.2,3,2,4,2.0,4.0,4.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0065,2024-03-13,318,100,True,34,Homme,Santé,Grande (>250),5.2,4,1,5,1.0,4.0,4.0,
+R0066,2024-03-10,319,100,True,52,Homme,Santé,Grande (>250),8.2,3,2,4,5.0,4.0,2.0,
+R0067,2024-03-28,232,100,True,26,Femme,Commerce,Moyenne (50-250),6.3,3,3,4,4.0,4.0,3.0,
+R0068,2024-03-12,187,100,True,29,Homme,Services aux entreprises,Moyenne (50-250),6.6,2,4,3,4.0,4.0,4.0,
+R0069,2024-03-03,487,100,True,44,Femme,Santé,Grande (>250),4.0,4,2,3,4.0,4.0,3.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0070,2024-03-15,309,100,True,34,Homme,Technologies,Grande (>250),0.0,4,3,5,3.0,4.0,4.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0071,2024-03-24,214,100,True,37,Femme,Commerce,Grande (>250),0.0,4,4,4,3.0,4.0,2.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0072,2024-03-06,362,88,False,36,Femme,Services aux entreprises,Moyenne (50-250),9.3,5,1,4,,,,
+R0073,2024-03-14,270,100,True,41,Femme,Technologies,Petite (<50),4.6,4,4,3,2.0,4.0,5.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0074,2024-03-04,257,100,True,52,Femme,Technologies,Grande (>250),3.0,4,2,3,5.0,4.0,4.0,
+R0075,2024-03-21,330,100,True,38,Homme,Industrie,Grande (>250),6.0,4,3,3,3.0,4.0,4.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0076,2024-03-15,163,100,True,44,Homme,Commerce,Grande (>250),10.0,4,3,5,2.0,4.0,3.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0077,2024-03-10,311,100,True,20,Homme,Santé,Petite (<50),6.9,3,4,4,3.0,4.0,3.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0078,2024-03-07,452,73,False,37,Femme,Commerce,Petite (<50),2.7,5,4,2,,,,
+R0079,2024-03-17,321,100,True,29,Femme,Commerce,Grande (>250),12.1,3,1,3,4.0,4.0,5.0,
+R0080,2024-03-21,246,100,True,25,Femme,Commerce,Petite (<50),13.9,3,2,5,2.0,4.0,3.0,
+R0081,2024-03-29,234,100,True,29,Homme,Industrie,Grande (>250),8.5,4,3,3,3.0,4.0,3.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0082,2024-03-14,243,100,True,34,Femme,Industrie,Moyenne (50-250),10.9,4,3,1,4.0,4.0,3.0,
+R0083,2024-03-05,257,100,True,47,Femme,Commerce,Grande (>250),12.2,2,3,5,3.0,2.0,4.0,
+R0084,2024-03-25,245,100,True,24,Femme,Santé,Grande (>250),11.7,5,4,4,3.0,4.0,3.0,
+R0085,2024-03-19,362,100,True,38,Homme,Industrie,Moyenne (50-250),9.1,4,4,3,3.0,4.0,4.0,
+R0086,2024-03-22,124,100,True,33,Femme,Commerce,Moyenne (50-250),9.0,2,3,3,3.0,3.0,4.0,
+R0087,2024-03-03,26,100,True,34,Homme,Industrie,Moyenne (50-250),8.6,5,1,4,2.0,4.0,4.0,
+R0088,2024-03-10,245,50,False,48,Homme,Services aux entreprises,Moyenne (50-250),0.5,4,3,3,,,,
+R0089,2024-03-24,313,100,True,43,Homme,Commerce,Moyenne (50-250),9.5,2,3,4,4.0,4.0,4.0,
+R0090,2024-03-25,178,100,True,51,Homme,Technologies,Moyenne (50-250),0.0,5,2,4,3.0,4.0,3.0,
+R0091,2024-03-14,399,100,True,36,Homme,Services aux entreprises,Grande (>250),2.0,4,4,4,2.0,1.0,3.0,Rien de particulier à signaler.
+R0092,2024-03-25,392,100,True,31,Femme,Technologies,Moyenne (50-250),12.5,4,4,3,2.0,4.0,3.0,
+R0093,2024-03-26,366,100,True,35,Homme,Technologies,Petite (<50),10.2,5,3,3,4.0,4.0,3.0,
+R0094,2024-03-12,143,100,True,40,Homme,Services aux entreprises,Moyenne (50-250),13.4,4,1,4,4.0,4.0,2.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0095,2024-03-27,354,100,True,39,Homme,Santé,Moyenne (50-250),4.6,4,2,2,3.0,4.0,3.0,
+R0096,2024-03-09,316,100,True,27,Homme,Services aux entreprises,Petite (<50),0.2,3,5,2,3.0,5.0,3.0,
+R0097,2024-03-08,135,100,True,38,Femme,Santé,Petite (<50),4.8,4,2,4,3.0,4.0,3.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0098,2024-03-21,277,100,True,40,Homme,Santé,Grande (>250),6.5,4,1,4,2.0,4.0,3.0,
+R0099,2024-03-20,312,52,False,63,Homme,Services aux entreprises,Moyenne (50-250),6.4,4,4,4,,,,
+R0100,2024-03-05,330,100,True,56,Homme,Technologies,Grande (>250),11.7,3,3,4,4.0,4.0,4.0,
+R0101,2024-03-25,295,100,True,29,Homme,Commerce,Petite (<50),4.2,4,4,3,4.0,4.0,5.0,Le management pourrait davantage communiquer sur les décisions.
+R0102,2024-03-06,306,100,True,35,Homme,Santé,Petite (<50),7.8,4,3,4,2.0,4.0,4.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0103,2024-03-25,412,100,True,23,Homme,Technologies,Grande (>250),1.1,2,3,3,2.0,4.0,3.0,
+R0104,2024-03-01,390,100,True,32,Homme,Santé,Grande (>250),8.3,2,3,3,3.0,4.0,4.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0105,2024-03-24,21,100,True,41,Femme,Commerce,Petite (<50),6.0,4,4,3,5.0,4.0,4.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0106,2024-03-24,251,100,True,50,Homme,Technologies,Petite (<50),2.3,1,5,5,1.0,4.0,4.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0107,2024-03-24,265,100,True,30,Homme,Services aux entreprises,Petite (<50),4.8,4,4,2,3.0,4.0,5.0,Rien de particulier à signaler.
+R0108,2024-03-20,122,100,True,31,Femme,Industrie,Moyenne (50-250),5.1,3,1,4,2.0,4.0,3.0,
+R0109,2024-03-15,24,100,True,20,Femme,Industrie,Moyenne (50-250),4.6,5,3,2,2.0,4.0,4.0,
+R0110,2024-03-22,392,100,True,36,Homme,Services aux entreprises,Petite (<50),14.9,3,4,3,3.0,4.0,4.0,
+R0111,2024-03-09,182,100,True,27,Femme,Commerce,Petite (<50),5.5,4,4,3,2.0,4.0,2.0,
+R0112,2024-03-24,310,100,True,32,Femme,Industrie,Moyenne (50-250),4.8,3,3,1,2.0,4.0,4.0,
+R0113,2024-03-17,197,100,True,29,Femme,Services aux entreprises,Grande (>250),0.0,4,4,4,3.0,4.0,5.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0114,2024-03-14,219,100,True,37,Femme,Technologies,Grande (>250),1.5,4,4,3,2.0,4.0,3.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0115,2024-03-16,412,88,False,20,Femme,Commerce,Moyenne (50-250),4.7,3,5,1,,,,
+R0116,2024-03-18,231,100,True,23,Homme,Santé,Petite (<50),2.6,5,2,4,4.0,4.0,2.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0117,2024-03-02,321,100,True,59,Femme,Technologies,Petite (<50),12.9,3,2,5,4.0,4.0,2.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0118,2024-03-05,111,100,True,25,Homme,Services aux entreprises,Petite (<50),5.2,4,3,5,4.0,4.0,5.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0119,2024-03-08,447,100,True,27,Homme,Santé,Grande (>250),12.4,5,3,4,1.0,4.0,3.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0120,2024-03-04,334,100,True,56,Femme,Services aux entreprises,Grande (>250),6.3,4,2,3,3.0,4.0,2.0,
+R0121,2024-03-14,263,100,True,65,Femme,Industrie,Grande (>250),6.2,5,1,5,4.0,4.0,4.0,
+R0122,2024-03-21,331,32,False,26,Homme,Industrie,Grande (>250),5.6,3,3,5,,,,
+R0123,2024-03-20,153,100,True,34,Femme,Santé,Grande (>250),6.0,2,3,4,3.0,4.0,3.0,
+R0124,2024-03-15,386,15,False,41,Femme,Santé,Grande (>250),14.6,3,3,2,,,,
+R0125,2024-03-26,250,10,False,55,Homme,Technologies,Petite (<50),0.0,4,5,4,,,,
+R0126,2024-03-17,261,100,True,28,Autre / ne se prononce pas,Industrie,Petite (<50),0.0,4,3,4,5.0,4.0,3.0,
+R0127,2024-03-03,235,100,True,35,Homme,Commerce,Moyenne (50-250),3.3,4,4,1,1.0,4.0,4.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0128,2024-03-23,227,100,True,45,Femme,Industrie,Moyenne (50-250),6.1,2,3,4,5.0,4.0,4.0,
+R0129,2024-03-18,342,74,False,42,Homme,Industrie,Petite (<50),9.5,4,4,5,,,,
+R0130,2024-03-20,303,100,True,34,Homme,Commerce,Grande (>250),8.4,2,3,4,4.0,4.0,3.0,
+R0131,2024-03-17,338,100,True,36,Femme,Services aux entreprises,Moyenne (50-250),4.1,5,4,5,4.0,4.0,4.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0132,2024-03-17,279,100,True,24,Homme,Industrie,Moyenne (50-250),11.1,5,3,3,2.0,3.0,3.0,
+R0133,2024-03-03,326,100,True,35,Femme,Santé,Petite (<50),11.2,4,3,3,3.0,4.0,5.0,
+R0134,2024-03-17,242,100,True,35,Femme,Services aux entreprises,Petite (<50),6.9,4,3,4,3.0,4.0,2.0,
+R0135,2024-03-24,480,100,True,40,Homme,Commerce,Petite (<50),10.8,3,3,2,3.0,4.0,5.0,
+R0136,2024-03-10,138,58,False,32,Femme,Services aux entreprises,Grande (>250),7.4,2,3,2,,,,
+R0137,2024-03-19,393,28,False,42,Femme,Technologies,Moyenne (50-250),3.2,3,5,5,,,,
+R0138,2024-03-01,403,100,True,48,Homme,Commerce,Grande (>250),9.5,3,3,5,3.0,4.0,4.0,
+R0139,2024-03-11,203,100,True,39,Autre / ne se prononce pas,Industrie,Petite (<50),6.6,2,3,2,3.0,4.0,2.0,
+R0140,2024-03-14,480,100,True,41,Homme,Industrie,Moyenne (50-250),6.0,5,4,4,4.0,4.0,3.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0141,2024-03-30,369,100,True,38,Homme,Santé,Moyenne (50-250),13.4,4,4,3,3.0,4.0,4.0,Le management pourrait davantage communiquer sur les décisions.
+R0142,2024-03-07,367,100,True,38,Autre / ne se prononce pas,Industrie,Grande (>250),0.0,4,3,4,4.0,4.0,5.0,
+R0143,2024-03-09,282,100,True,30,Femme,Technologies,Grande (>250),0.0,3,1,4,2.0,4.0,3.0,
+R0144,2024-03-13,260,100,True,41,Homme,Commerce,Petite (<50),0.1,3,4,4,2.0,4.0,4.0,
+R0145,2024-03-30,18,100,True,37,Femme,Technologies,Grande (>250),4.2,5,1,3,2.0,4.0,4.0,
+R0146,2024-03-26,315,100,True,58,Femme,Industrie,Petite (<50),4.7,4,4,5,2.0,4.0,4.0,
+R0147,2024-03-02,19,100,True,53,Homme,Santé,Grande (>250),0.0,4,3,4,4.0,4.0,2.0,
+R0148,2024-03-08,296,100,True,41,Homme,Technologies,Petite (<50),1.1,3,4,4,4.0,4.0,3.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0149,2024-03-25,197,100,True,30,Homme,Services aux entreprises,Petite (<50),1.7,3,2,2,3.0,4.0,4.0,
+R0150,2024-03-02,354,100,True,26,Femme,Commerce,Grande (>250),18.3,2,1,5,4.0,4.0,5.0,
+R0151,2024-03-26,362,100,True,49,Femme,Santé,Petite (<50),15.0,2,3,4,4.0,4.0,5.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0152,2024-03-09,338,100,True,40,Homme,Commerce,Moyenne (50-250),3.9,3,3,4,3.0,4.0,4.0,
+R0153,2024-03-28,347,100,True,42,Femme,Services aux entreprises,Moyenne (50-250),4.2,4,3,2,2.0,4.0,4.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0154,2024-03-09,255,53,False,20,Femme,Commerce,Petite (<50),0.3,2,3,2,,,,
+R0155,2024-03-14,196,100,True,47,Femme,Commerce,Grande (>250),0.0,4,5,5,3.0,4.0,3.0,
+R0156,2024-03-20,201,100,True,42,Homme,Services aux entreprises,Grande (>250),5.4,4,4,4,3.0,4.0,3.0,
+R0157,2024-03-04,132,100,True,26,Homme,Industrie,Grande (>250),1.0,1,4,1,3.0,4.0,3.0,
+R0158,2024-03-17,301,100,True,33,Homme,Industrie,Moyenne (50-250),5.6,3,4,4,2.0,1.0,2.0,
+R0159,2024-03-16,272,100,True,40,Femme,Commerce,Moyenne (50-250),0.0,4,4,3,1.0,4.0,4.0,
+R0160,2024-03-24,240,62,False,38,Femme,Industrie,Petite (<50),2.2,4,3,5,,,,
+R0161,2024-03-30,20,100,True,35,Homme,Services aux entreprises,Petite (<50),6.7,2,1,3,2.0,4.0,4.0,
+R0162,2024-03-20,167,100,True,36,Homme,Santé,Petite (<50),7.8,4,3,4,5.0,4.0,4.0,Rien de particulier à signaler.
+R0163,2024-03-13,380,100,True,35,Homme,Industrie,Grande (>250),8.1,5,4,4,2.0,4.0,4.0,Rien de particulier à signaler.
+R0164,2024-03-13,220,100,True,39,Homme,Industrie,Grande (>250),0.0,4,2,2,2.0,4.0,4.0,
+R0165,2024-03-13,312,100,True,52,Homme,Industrie,Grande (>250),10.3,4,3,2,3.0,4.0,3.0,Rien de particulier à signaler.
+R0166,2024-03-25,29,100,True,20,Femme,Services aux entreprises,Moyenne (50-250),2.0,3,2,3,4.0,4.0,4.0,Le management pourrait davantage communiquer sur les décisions.
+R0167,2024-03-10,409,79,False,35,Femme,Commerce,Moyenne (50-250),9.2,3,5,4,,,,
+R0168,2024-03-06,267,100,True,39,Homme,Services aux entreprises,Moyenne (50-250),5.9,4,4,2,3.0,4.0,4.0,
+R0169,2024-03-11,306,100,True,40,Femme,Industrie,Moyenne (50-250),0.0,4,4,2,1.0,4.0,4.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0170,2024-03-01,489,100,True,34,Homme,Commerce,Moyenne (50-250),4.4,4,4,4,2.0,4.0,3.0,
+R0171,2024-03-04,416,100,True,20,Homme,Services aux entreprises,Petite (<50),7.8,4,3,3,2.0,4.0,4.0,
+R0172,2024-03-03,252,100,True,41,Homme,Services aux entreprises,Petite (<50),9.1,4,3,3,1.0,4.0,3.0,
+R0173,2024-03-24,226,100,True,55,Homme,Services aux entreprises,Grande (>250),5.3,4,2,1,3.0,4.0,3.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0174,2024-03-22,250,100,True,22,Homme,Technologies,Moyenne (50-250),13.7,4,1,3,1.0,4.0,2.0,
+R0175,2024-03-21,325,100,True,46,Homme,Services aux entreprises,Grande (>250),11.0,4,3,3,2.0,4.0,5.0,Le management pourrait davantage communiquer sur les décisions.
+R0176,2024-03-14,270,27,False,34,Homme,Santé,Petite (<50),4.7,3,3,4,,,,
+R0177,2024-03-22,244,100,True,37,Homme,Services aux entreprises,Moyenne (50-250),9.8,2,4,3,2.0,4.0,4.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0178,2024-03-05,38,100,True,27,Femme,Commerce,Petite (<50),15.7,5,5,5,3.0,4.0,5.0,
+R0179,2024-03-28,269,100,True,34,Homme,Commerce,Petite (<50),15.8,4,5,3,3.0,4.0,3.0,Rien de particulier à signaler.
+R0180,2024-03-16,486,100,True,51,Homme,Commerce,Petite (<50),0.0,2,2,3,4.0,4.0,5.0,
+R0181,2024-03-29,288,48,False,43,Femme,Services aux entreprises,Petite (<50),1.4,3,3,5,,,,
+R0182,2024-03-05,440,66,False,55,Femme,Commerce,Grande (>250),13.4,4,3,4,,,,
+R0183,2024-03-15,312,38,False,49,Homme,Santé,Moyenne (50-250),0.7,3,5,3,,,,
+R0184,2024-03-21,366,100,True,42,Homme,Services aux entreprises,Moyenne (50-250),0.0,3,4,3,3.0,4.0,4.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0185,2024-03-15,214,100,True,55,Femme,Santé,Moyenne (50-250),3.6,5,4,5,3.0,4.0,4.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0186,2024-03-14,203,100,True,42,Femme,Technologies,Moyenne (50-250),8.1,3,3,5,3.0,4.0,3.0,Le management pourrait davantage communiquer sur les décisions.
+R0187,2024-03-05,321,100,True,46,Femme,Commerce,Moyenne (50-250),5.5,3,2,2,3.0,4.0,5.0,Le management pourrait davantage communiquer sur les décisions.
+R0188,2024-03-12,368,100,True,35,Femme,Commerce,Petite (<50),2.7,4,4,3,3.0,4.0,4.0,
+R0189,2024-03-08,283,100,True,38,Homme,Technologies,Grande (>250),2.6,4,2,3,2.0,4.0,4.0,
+R0190,2024-03-10,164,58,False,31,Homme,Commerce,Grande (>250),2.4,4,3,2,,,,
+R0191,2024-03-21,157,100,True,47,Femme,Commerce,Grande (>250),1.6,5,3,3,3.0,4.0,4.0,
+R0192,2024-03-19,151,100,True,26,Homme,Santé,Moyenne (50-250),17.4,4,5,3,2.0,4.0,3.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0193,2024-03-19,120,100,True,45,Femme,Services aux entreprises,Petite (<50),7.5,4,3,4,2.0,4.0,3.0,
+R0194,2024-03-11,289,100,True,36,Femme,Industrie,Grande (>250),10.4,3,1,5,2.0,4.0,3.0,
+R0195,2024-03-29,381,100,True,49,Homme,Services aux entreprises,Moyenne (50-250),3.6,4,4,3,4.0,4.0,5.0,
+R0196,2024-03-03,278,100,True,45,Homme,Services aux entreprises,Petite (<50),5.1,4,2,3,3.0,4.0,3.0,
+R0197,2024-03-11,76,13,False,56,Autre / ne se prononce pas,Santé,Moyenne (50-250),2.4,4,3,4,,,,
+R0198,2024-03-04,262,100,True,45,Homme,Technologies,Grande (>250),0.0,4,3,3,4.0,4.0,3.0,
+R0199,2024-03-11,265,100,True,22,Homme,Industrie,Moyenne (50-250),0.0,4,3,4,2.0,4.0,3.0,Rien de particulier à signaler.
+R0200,2024-03-29,468,100,True,37,Homme,Industrie,Grande (>250),0.0,4,4,3,1.0,4.0,4.0,
+R0201,2024-03-11,148,100,True,26,Homme,Technologies,Grande (>250),0.0,3,1,2,4.0,4.0,4.0,
+R0202,2024-03-28,244,100,True,32,Homme,Industrie,Petite (<50),0.0,4,2,2,2.0,4.0,4.0,
+R0203,2024-03-15,433,100,True,53,Homme,Commerce,Grande (>250),12.6,4,4,5,2.0,4.0,3.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0204,2024-03-21,320,100,True,44,Homme,Industrie,Moyenne (50-250),5.8,4,2,3,3.0,4.0,4.0,Je me sens peu reconnu(e) dans mon travail au quotidien.
+R0205,2024-03-14,330,100,True,31,Homme,Industrie,Moyenne (50-250),12.5,5,1,5,4.0,4.0,3.0,
+R0206,2024-03-08,290,100,True,27,Femme,Santé,Petite (<50),8.1,3,4,3,3.0,4.0,3.0,
+R0207,2024-03-23,309,100,True,38,Homme,Industrie,Grande (>250),9.9,4,4,4,2.0,4.0,3.0,
+R0208,2024-03-30,349,100,True,25,Homme,Industrie,Petite (<50),1.5,5,3,5,3.0,4.0,2.0,
+R0209,2024-03-08,207,100,True,31,Homme,Santé,Petite (<50),8.6,4,1,2,2.0,4.0,5.0,
+R0210,2024-03-24,359,100,True,41,Homme,Industrie,Moyenne (50-250),9.6,5,4,1,5.0,4.0,4.0,Rien de particulier à signaler.
+R0211,2024-03-08,156,100,True,49,Homme,Santé,Petite (<50),3.1,3,1,5,3.0,4.0,4.0,
+R0212,2024-03-22,309,100,True,44,Autre / ne se prononce pas,Industrie,Petite (<50),8.8,4,3,2,1.0,4.0,4.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0213,2024-03-24,296,100,True,20,Femme,Industrie,Moyenne (50-250),8.8,3,2,3,3.0,4.0,4.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0214,2024-03-14,224,100,True,41,Homme,Industrie,Moyenne (50-250),3.3,3,2,3,5.0,4.0,2.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0215,2024-03-23,277,100,True,38,Homme,Technologies,Grande (>250),0.4,4,3,4,4.0,4.0,4.0,
+R0216,2024-03-09,223,100,True,42,Femme,Technologies,Moyenne (50-250),0.1,4,3,2,5.0,2.0,4.0,
+R0217,2024-03-03,183,100,True,54,Femme,Services aux entreprises,Grande (>250),6.4,4,2,3,2.0,2.0,4.0,
+R0218,2024-03-03,248,84,False,20,Femme,Commerce,Moyenne (50-250),7.6,5,4,4,,,,
+R0219,2024-03-14,180,100,True,32,Homme,Industrie,Grande (>250),2.0,4,3,2,2.0,4.0,3.0,
+R0220,2024-03-28,309,100,True,43,Homme,Services aux entreprises,Moyenne (50-250),6.1,3,4,3,3.0,4.0,2.0,
+R0221,2024-03-04,176,100,True,22,Autre / ne se prononce pas,Commerce,Moyenne (50-250),8.9,5,3,3,2.0,4.0,3.0,
+R0222,2024-03-14,344,100,True,52,Homme,Services aux entreprises,Grande (>250),9.1,4,2,2,2.0,4.0,4.0,
+R0223,2024-03-22,173,100,True,41,Autre / ne se prononce pas,Technologies,Moyenne (50-250),13.8,3,2,3,2.0,4.0,4.0,
+R0224,2024-03-07,229,100,True,46,Femme,Santé,Petite (<50),12.4,3,1,3,4.0,4.0,2.0,
+R0225,2024-03-22,223,100,True,32,Homme,Services aux entreprises,Grande (>250),1.0,3,3,3,4.0,4.0,3.0,
+R0226,2024-03-10,399,100,True,46,Femme,Industrie,Grande (>250),14.4,5,3,3,3.0,4.0,3.0,
+R0227,2024-03-25,309,100,True,48,Homme,Commerce,Petite (<50),3.3,3,1,3,2.0,4.0,3.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0228,2024-03-18,260,100,True,40,Homme,Santé,Moyenne (50-250),11.2,4,2,3,3.0,4.0,2.0,Le management pourrait davantage communiquer sur les décisions.
+R0229,2024-03-17,324,100,True,40,Homme,Services aux entreprises,Grande (>250),6.3,4,2,4,2.0,4.0,2.0,Rien de particulier à signaler.
+R0230,2024-03-06,90,100,True,40,Homme,Technologies,Grande (>250),3.9,4,5,5,4.0,4.0,3.0,
+R0231,2024-03-14,276,100,True,29,Femme,Services aux entreprises,Grande (>250),0.0,3,1,3,4.0,4.0,4.0,
+R0232,2024-03-26,459,100,True,36,Femme,Industrie,Moyenne (50-250),5.1,3,2,4,4.0,4.0,2.0,
+R0233,2024-03-01,291,100,True,36,Femme,Santé,Grande (>250),0.0,4,4,3,2.0,4.0,3.0,
+R0234,2024-03-23,286,100,True,41,Femme,Technologies,Moyenne (50-250),10.8,4,4,4,1.0,4.0,5.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0235,2024-03-15,329,100,True,47,Homme,Santé,Grande (>250),13.6,4,2,5,1.0,4.0,2.0,
+R0236,2024-03-22,360,100,True,27,Homme,Santé,Moyenne (50-250),2.0,3,2,4,4.0,4.0,3.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0237,2024-03-20,100,100,True,36,Homme,Commerce,Grande (>250),7.5,4,4,2,2.0,4.0,5.0,
+R0238,2024-03-13,128,100,True,52,Homme,Commerce,Moyenne (50-250),2.4,3,1,4,2.0,4.0,3.0,Rien de particulier à signaler.
+R0239,2024-03-10,298,100,True,30,Homme,Commerce,Moyenne (50-250),2.9,3,1,5,5.0,4.0,3.0,
+R0240,2024-03-19,215,100,True,29,Homme,Santé,Grande (>250),9.9,3,3,3,4.0,4.0,5.0,
+R0241,2024-03-05,398,100,True,40,Femme,Services aux entreprises,Moyenne (50-250),5.8,5,5,4,3.0,4.0,3.0,
+R0242,2024-03-18,251,100,True,46,Femme,Services aux entreprises,Grande (>250),14.7,4,3,3,3.0,4.0,5.0,Rien de particulier à signaler.
+R0243,2024-03-03,105,100,True,38,Homme,Santé,Moyenne (50-250),3.6,4,3,2,3.0,4.0,4.0,
+R0244,2024-03-20,165,77,False,51,Homme,Technologies,Moyenne (50-250),11.0,5,4,3,,,,
+R0245,2024-03-19,32,100,True,46,Femme,Santé,Moyenne (50-250),6.5,5,5,2,5.0,4.0,4.0,
+R0246,2024-03-03,258,100,True,46,Homme,Santé,Moyenne (50-250),10.0,2,2,3,3.0,4.0,4.0,
+R0247,2024-03-23,263,100,True,43,Homme,Industrie,Moyenne (50-250),3.8,3,3,5,4.0,4.0,5.0,Rien de particulier à signaler.
+R0248,2024-03-13,241,100,True,61,Femme,Commerce,Petite (<50),5.8,3,5,1,4.0,4.0,3.0,
+R0249,2024-03-24,377,100,True,35,Femme,Technologies,Petite (<50),5.4,3,1,2,2.0,4.0,4.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0250,2024-03-02,387,100,True,20,Homme,Santé,Grande (>250),1.8,3,4,2,4.0,4.0,3.0,Rien de particulier à signaler.
+R0251,2024-03-06,264,100,True,54,Homme,Industrie,Grande (>250),9.3,3,2,3,3.0,5.0,4.0,
+R0252,2024-03-15,87,55,False,33,Femme,Commerce,Grande (>250),9.3,2,3,3,,,,
+R0253,2024-03-06,335,100,True,39,Homme,Services aux entreprises,Petite (<50),9.0,4,3,5,1.0,4.0,5.0,Le management pourrait davantage communiquer sur les décisions.
+R0254,2024-03-10,329,100,True,51,Femme,Technologies,Moyenne (50-250),13.7,4,2,4,2.0,4.0,4.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0255,2024-03-20,307,63,False,21,Homme,Industrie,Petite (<50),13.2,4,2,4,,,,
+R0256,2024-03-05,368,100,True,25,Femme,Technologies,Grande (>250),4.1,4,3,3,3.0,4.0,5.0,"L'ambiance générale est agréable, mais les perspectives d'évolution manquent de clarté."
+R0257,2024-03-21,175,100,True,21,Homme,Commerce,Grande (>250),7.9,4,4,4,3.0,4.0,5.0,
+R0258,2024-03-04,460,100,True,30,Femme,Commerce,Petite (<50),2.9,3,3,2,5.0,4.0,5.0,"Bonne équipe, charge de travail parfois difficile à gérer."
+R0259,2024-03-06,193,100,True,42,Femme,Services aux entreprises,Grande (>250),6.1,5,3,4,2.0,4.0,5.0,
+R0260,2024-03-18,347,100,True,43,Homme,Services aux entreprises,Petite (<50),3.0,4,4,2,3.0,4.0,4.0,Rien de particulier à signaler.
