@@ -1,29 +1,29 @@
 # Environnement Jupyter
-jupyterlab==4.6.3
-notebook>=7.5.6
+jupyterlab>=4.6.3,<5.0.0
+notebook>=7.5.6,<8.0.0
 
 # Manipulation de données
-pandas==3.0.5
-numpy==2.5.2
-openpyxl==3.1.5            # Lecture/écriture de fichiers Excel
+pandas>=3.0.5,<4.0.0
+numpy>=2.5.2,<3.0.0
+openpyxl>=3.1.5,<4.0.0                         # Lecture/écriture de fichiers Excel
 
 # Visualisation de données
-matplotlib==3.11.1
-seaborn==0.13.2
-plotly==6.9.0
+matplotlib>=3.11.1,<4.0.0
+seaborn>=0.13.2,<1.0.0
+plotly>=6.9.0,<7.0.0
 
 # Statistiques et économétrie
-statsmodels==0.14.6
-scipy==1.18.0
-linearmodels==7.0              # Données de panel
+statsmodels>=0.14.6,<1.0.0
+scipy>=1.18.0,<2.0.0
+linearmodels>=7.0,<8.0                         # Données de panel
 
 # Texte et scrapping
-beautifulsoup4==4.14.3
-requests==2.34.2
-nltk==3.10.3
+beautifulsoup4>=4.14.3,<5.0.0
+requests>=2.34.2,<3.0.0
+nltk>=3.10.3,<4.0.0
 
 # Machine Learning
-scikit-learn==1.9.0
+scikit-learn>=1.9.0,<2.0.0
 
 # Reproductibilité et qualité du code
-python-dotenv==1.2.2
+python-dotenv>=1.2.2,<2.0.0
