@@ -51,8 +51,6 @@ Ouvrez le notebook [`06-texte-scraping.ipynb`](06-texte-scraping.ipynb) de ce mo
 
 ## Exercices
 
-Voir le dossier [`exercices/`](exercices/) :
-
 - Exercice 1 : collecter des données via une API publique (JSON)
 - Exercice 2 : scraper une page HTML simple avec BeautifulSoup
 - Exercice 3 : nettoyer un corpus de texte fourni (avis clients fictifs)

@@ -58,8 +58,6 @@ Ouvrez le notebook [`07-enquetes-sondages.ipynb`](07-enquetes-sondages.ipynb) de
 
 ## Exercices
 
-Voir le dossier [`exercices/`](exercices/) :
-
 - Exercice 1 : importer et nettoyer un export de questionnaire fictif
 - Exercice 2 : recoder des items de Likert et construire une variable composite
 - Exercice 3 : calculer l'alpha de Cronbach d'une échelle

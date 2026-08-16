@@ -61,8 +61,6 @@ Ouvrez le notebook [`01-fondamentaux-python.ipynb`](01-fondamentaux-python.ipynb
 
 ## Exercices
 
-Voir le dossier [`exercices/`](exercices/) :
-
 - Exercice 1 : manipulation de listes et dictionnaires (ex. structurer une petite liste de répondants à une enquête fictive)
 - Exercice 2 : boucles et conditions (ex. filtrer des données selon un critère)
 - Exercice 3 : écrire une fonction réutilisable (ex. calculer une moyenne pondérée)

@@ -58,8 +58,6 @@ Ouvrez le notebook [`04-stats-descriptives-inferentielles.ipynb`](04-stats-descr
 
 ## Exercices
 
-Voir le dossier [`exercices/`](exercices/) :
-
 - Exercice 1 : statistiques descriptives et détection d'anomalies dans un jeu de données
 - Exercice 2 : tester si deux groupes diffèrent significativement (ex. satisfaction moyenne entre deux segments de clients)
 - Exercice 3 : tester une corrélation et un lien d'indépendance entre deux variables catégorielles
@@ -77,4 +75,4 @@ Corrigés disponibles dans [`solutions/04-stats-descriptives-inferentielles/`](.
 Selon votre objectif (voir la [roadmap](../../docs/roadmap.md)) :
 
 - aller vers l'[économétrie](../05-econometrie/), pour la modélisation (régressions, panels) ;
-- aller vers le [machine learning](../08-machine-learning-intro/), pour des approches prédictives.
+- aller vers le [machine learning](../08-intro-machine-learning/), pour des approches prédictives.

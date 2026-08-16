@@ -64,8 +64,6 @@ Ouvrez le notebook [`08-intro-machine-learning.ipynb`](08-intro-machine-learning
 
 ## Exercices
 
-Voir le dossier [`exercices/`](exercices/) :
-
 - Exercice 1 : préparer un jeu de données pour un modèle (encodage, split train/test)
 - Exercice 2 : entraîner et évaluer un modèle de classification (ex. prédire le churn client)
 - Exercice 3 : entraîner et évaluer un modèle de régression

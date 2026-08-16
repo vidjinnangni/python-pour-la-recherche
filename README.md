@@ -72,7 +72,7 @@ Chaque module est composé :
 
 ## Comment naviguer dans le cours ?
 
-Pour commencer, consultez [`docs/ROADMAP.md`](ROADMAP.md) pour des parcours conseillés selon votre objectif. Si vous n'avez pas d'objectif spécifique, vous pouvez suivre les modules dans l'ordre (`00` → `09`) pour une progression cohérente.
+Pour commencer, consultez [`docs/ROADMAP.md`](/docs/ROADMAP.md) pour des parcours conseillés selon votre objectif. Si vous n'avez pas d'objectif spécifique, vous pouvez suivre les modules dans l'ordre (`00` → `09`) pour une progression cohérente.
 
 ## Installation
 
@@ -81,6 +81,8 @@ Vous avez deux (02) options pour suivre ce cours. **Si vous débutez, commencez 
 ### Option A : Google Colab (recommandé pour débuter)
 
 [Google Colab](https://colab.research.google.com/) est un service gratuit de Google qui exécute des notebooks Jupyter directement dans votre navigateur, sans rien installer sur votre ordinateur. Tout ce dont vous avez besoin, c'est un compte Google.
+
+![Google Colab](/docs/images/interface-google-colab.png)
 
 ### Option B : Installation locale sur votre ordinateur
 

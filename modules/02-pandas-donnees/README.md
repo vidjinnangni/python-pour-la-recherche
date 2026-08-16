@@ -65,8 +65,6 @@ Ouvrez le notebook [`02-pandas-donnees.ipynb`](02-pandas-donnees.ipynb) de ce mo
 
 ## Exercices
 
-Voir le dossier [`exercices/`](exercices/) :
-
 - Exercice 1 : chargement et exploration d'un jeu de données réel
 - Exercice 2 : nettoyage (valeurs manquantes, doublons, types)
 - Exercice 3 : `groupby` et statistiques par groupe (ex. performance moyenne par secteur d'activité)

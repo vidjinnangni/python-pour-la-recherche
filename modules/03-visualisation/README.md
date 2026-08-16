@@ -53,8 +53,6 @@ Ouvrez le notebook [`03-visualisation.ipynb`](03-visualisation.ipynb) de ce modu
 
 ## Exercices
 
-Voir le dossier [`exercices/`](exercices/) :
-
 - Exercice 1 : reproduire un graphique donné (choix du bon type de graphique)
 - Exercice 2 : personnaliser un graphique pour le rendre présentable (titres, légendes, échelle)
 - Exercice 3 : visualiser une corrélation entre deux variables avec seaborn

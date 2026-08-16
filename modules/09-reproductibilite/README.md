@@ -58,8 +58,6 @@ Ouvrez le notebook [`09-reproductibilite.ipynb`](09-reproductibilite.ipynb) de c
 
 ## Exercices
 
-Voir le dossier [`exercices/`](exercices/) :
-
 - Exercice 1 : réorganiser un projet "en vrac" fourni selon une structure claire
 - Exercice 2 : écrire un README de projet complet pour une analyse fictive
 - Exercice 3 : figer un environnement (`requirements.txt`) pour un projet donné

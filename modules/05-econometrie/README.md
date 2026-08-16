@@ -54,8 +54,6 @@ Ouvrez le notebook [`05-econometrie.ipynb`](05-econometrie.ipynb) de ce module. 
 
 ## Exercices
 
-Voir le dossier [`exercices/`](exercices/) :
-
 - Exercice 1 : estimer et interpréter une régression multiple avec variables de contrôle
 - Exercice 2 : diagnostiquer un modèle (résidus, multicolinéarité, hétéroscédasticité) et corriger si besoin
 - Exercice 3 : estimer une régression logistique et interpréter les résultats

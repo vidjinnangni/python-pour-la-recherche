@@ -40,9 +40,11 @@ Ouvrez le notebook [`00-prise-en-main.ipynb`](00-prise-en-main.ipynb) de ce modu
 
 Si vous utilisez Google Colab, vous pouvez l'ouvrir directement en important le fichier `.ipynb` depuis GitHub dans l'interface Colab (Importer le notebook → GitHub).
 
-## Exercices
+![Google Colab](/docs/images/google-colab.png)
 
-Voir le dossier [`exercices/`](exercices/). Ce module contient un seul petit exercice de vérification d'environnement (exécuter une cellule, importer une bibliothèque, afficher un résultat).
+## Exercice
+
+Ce module contient un seul petit exercice de vérification d'environnement (exécuter une cellule, importer une bibliothèque, afficher un résultat).
 
 ## Pour aller plus loin (optionnel)
 
