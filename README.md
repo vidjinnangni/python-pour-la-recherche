@@ -82,11 +82,17 @@ Vous avez deux (02) options pour suivre ce cours. **Si vous débutez, commencez 
 
 [Google Colab](https://colab.research.google.com/) est un service gratuit de Google qui exécute des notebooks Jupyter directement dans votre navigateur, sans rien installer sur votre ordinateur. Tout ce dont vous avez besoin, c'est un compte Google.
 
+1. Allez sur le repo GitHub de ce cours à l'adresse [https://github.com/vidjinnangni/python-pour-la-recherche](https://github.com/vidjinnangni/python-pour-la-recherche).
+2. Ouvrez le notebook d'un module (fichier `.ipynb`, par exemple `modules/00-prise-en-main/00-prise-en-main.ipynb`).
+3. Dans Google Colab : *Importer le notebook → GitHub*, collez l'URL du repo et sélectionnez le notebook que vous voulez importer.
+
+L'inconvénient avec cette méthode : pour les modules utilisant les jeux de données du repo (`assets/datasets/`), il faudra les importer dans Colab à chaque session.
+
 ![Google Colab](/docs/images/interface-google-colab.png)
 
 ### Option B : Installation locale sur votre ordinateur
 
-Cette option est plus confortable sur la durée (pas besoin de réimporter les fichiers à chaque fois), mais demande un peu plus de mise en place. Elle suppose que vous savez ouvrir un terminal (l'application « Terminal » sur Mac, « Invite de commandes » ou « PowerShell » sur Windows ou le terminal intégré si vous utilisez déjà VS Code).
+Cette option est plus pratique pour suivre correctement tous les modules (pas besoin de réimporter les fichiers à chaque fois). Cependant, cela demande quelques manipulations pour la mise en place. Déjà, vous devez savoir ouvrir un terminal (l'application « Terminal » sur Mac, « Invite de commandes » ou « PowerShell » sur Windows ou le terminal intégré si vous utilisez déjà VS Code) sur votre ordinateur.
 
 **Prérequis : avoir Python installé.** Vérifiez si c'est déjà le cas en tapant dans votre terminal :
 
@@ -100,7 +106,7 @@ Si vous obtenez un numéro de version (ex. `Python 3.11.4`), c'est bon, passez �
 
 #### 1. Cloner le repo
 
-Le plus simple si vous découvrez Git : téléchargez le repo en `.zip` depuis GitHub (Cliquez sur le bouton bleu **"Code"** puis sur le lien **"Download ZIP"** en haut de la page du repo), puis décompressez-le où vous voulez sur votre ordinateur.
+Le plus simple si vous découvrez Git : téléchargez le repo en `.zip` depuis GitHub (Cliquez sur le bouton bleu **"Code"** puis sur le lien **"Download ZIP"** en haut de la page du repo), et décompressez-le où vous voulez sur votre ordinateur.
 
 ![Télécharger le repo](/docs/images/download-zip.png)
 
@@ -120,6 +126,33 @@ cd chemin/vers/python-pour-la-recherche
 
 Un **environnement virtuel** est un espace isolé où seront installées les bibliothèques de ce cours, sans interférer avec d'autres projets Python sur votre machine. C'est une bonne pratique !
 
+Trois façons de faire, au choix. **Si vous découvrez Python, on vous recommande l'option `uv`** qui est simple et rapide.
+
+##### Option recommandée : `uv`
+
+[`uv`](https://docs.astral.sh/uv/) est un gestionnaire de paquets et de projets Python. Un outil moderne qui remplace des outils classiques comme `pip`, `pip-tools`, `virtualenv`, `pyenv` et `pipx`. Il s'installe une seule fois sur votre machine :
+
+```bash
+# Installer uv
+curl -LsSf https://astral.sh/uv/install.sh | sh   # sur Mac / Linux
+
+# sur Windows (PowerShell) :
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+Puis, depuis le dossier du repo :
+
+```bash
+# Créer l'environnement et installer les dépendances en une seule commande
+uv sync
+```
+
+C'est tout !
+
+#### Deuxième otion : `pip` + `venv`
+
+Cette option utilise des outils déjà intégrés à Python, sans rien installer de plus.
+
 ```bash
 # Créer l'environnement (une seule fois)
 python3 -m venv venv
@@ -134,18 +167,24 @@ pip install -r requirements.txt
 
 Vous saurez que l'environnement est activé si son nom (`venv`) apparaît entre parenthèses au début de la ligne de commande dans votre terminal.
 
-*Vous utilisez déjà conda plutôt que pip ? Remplacez cette étape par :*
+#### Troisième option : `conda`
+
+*Vous utilisez déjà `conda` ?
 
 ```bash
 conda env create -f environment.yml
-conda activate python-recherche-gestion
+conda activate python-pour-la-recherche
 ```
 
 #### 3. Lancer Jupyter
 
-Une fois l'environnement activé (étape précédente) :
+La commande à utiliser dépend de l'option choisie à l'étape précédente :
 
 ```bash
+# Si vous avez utilisé uv (pas besoin d'activer d'environnement
+uv run jupyter lab
+
+# Si vous avez utilisé pip/venv ou conda (une fois l'environnement activé)
 jupyter lab
 ```
 
@@ -153,7 +192,10 @@ Cette commande ouvre automatiquement un onglet dans votre navigateur avec l'inte
 
 Pour arrêter Jupyter, retournez dans le terminal et faites `Ctrl + C`.
 
-**La prochaine fois** que vous voulez travailler sur le cours, vous n'aurez plus qu'à refaire les étapes 2 (activer l'environnement, sans le recréer) et 3 (lancer `jupyter lab`). Il n'est plus nécessaire" de tout réinstaller.
+**La prochaine fois** que vous voulez travailler sur le cours :
+
+- Avec `uv` : relancez simplement `uv run jupyter lab`.
+- Avec `pip`/`venv` ou `conda` : réactivez l'environnement (étape 2, sans le recréer), puis relancez `jupyter lab`.
 
 ## Jeux de données
 
