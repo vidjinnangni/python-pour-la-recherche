@@ -100,7 +100,7 @@ Cette option est plus pratique pour suivre correctement tous les modules (pas be
 python3 --version
 ```
 
-Si vous obtenez un numéro de version (ex. `Python 3.11.4`), c'est bon, passez à l'étape suivante. Sinon, installez Python depuis [python.org/downloads](https://www.python.org/downloads/) (choisissez une version 3.10 ou plus récente), puis relancez la vérification.
+Si vous obtenez un numéro de version (ex. `Python 3.12.4`), c'est bon, passez à l'étape suivante. Sinon, installez Python depuis [python.org/downloads](https://www.python.org/downloads/) (choisissez une version 3.12 ou plus récente), puis relancez la vérification.
 
 ![Télécharger Python](/docs/images/download-python.png)
 
@@ -172,7 +172,7 @@ Vous saurez que l'environnement est activé si son nom (`venv`) apparaît entre 
 *Vous utilisez déjà `conda` ?
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate python-pour-la-recherche
 ```
 

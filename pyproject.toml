@@ -2,7 +2,7 @@
 name = "python-pour-la-recherche"
 version = "0.1.0"
 description = "Ressources Python pour la recherche en sciences de gestion"
-requires-python = ">=3.10"
+requires-python = ">=3.12"
 dependencies = [
     "jupyterlab>=4.6.3,<5.0.0",
     "notebook>=7.5.6,<8.0.0",
